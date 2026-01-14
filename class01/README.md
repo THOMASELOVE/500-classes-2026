@@ -28,7 +28,7 @@ Class | Date | HTML | Quarto | Recording
 
 ## Teaching Assistant
 
-Our teaching assistant is Sarah Albalawi. Sarah Albalawi is a general dentist who recently completed her Master of Public Health degree here at CWRU. She earned a Bachelor of Dental Medicine from King Saud University in her home country, Saudi Arabia. Her research focuses on improving oral health outcomes for medically compromised patients and expanding dental services in rural communities. Outside of academia, Sarah enjoys baking and floral photography.
+Our teaching assistant is **Sarah Albalawi**. Sarah is a general dentist who recently completed her Master of Public Health degree here at CWRU. She holds a Bachelor of Dental Medicine from King Saud University in her home country, Saudi Arabia. Her research focuses on improving oral health outcomes for medically compromised patients and expanding dental services in rural communities. Outside of academia, Sarah enjoys baking and floral photography.
 
 Although outside of the US for the semester, Sarah will still be holding Zoom office hours every **Sunday** from **2 to 3:30 PM**. Please feel free to drop in, and I'm sure she will provide both patience and skill in trying to help you out. Visit [Canvas](https://canvas.case.edu/) or our **Shared Google Drive** for complete Zoom information.
 
