@@ -19,7 +19,7 @@ Class | Date | HTML | Quarto | Recording
 ## Announcements
 
 1. Welcome to class! If you have any questions, let me know, or email **500-help at case dot edu**.
-2. Please complete the [Welcome to 500 Survey] by Noon Tuesday 2026-01-20 (ideally, do this today.) Thanks to those of you who've done this already.
+2. Please complete the [Welcome to 500 Survey](https://bit.ly/500-welcome-2026) by Noon Tuesday 2026-01-20 (ideally, do this today.) Thanks to those of you who've done this already. You need to log into Google via CWRU to access the Survey.
 3. Be sure you see the **Shared Google Drive** named **500 Spring 2026 Students and Dr Love** when you log into Google via CWRU.
 4. Be sure you see our course in [Canvas](https://canvas.case.edu/) so that you have access to our class recordings, etc.
 5. Here is a direct link to the [Lab 0 Example](https://thomaselove.github.io/500-2026/lab0.html)
