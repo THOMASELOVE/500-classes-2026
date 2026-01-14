@@ -42,7 +42,7 @@ Although outside of the US for the semester, Sarah will still be holding Zoom of
 2. MRFIT (Multiple Risk Factor Intervention Trial) Research Group 1982 [Multiple Risk Factor Intervention Trial: Risk Factor Changes and Mortality Results]([articles/](https://github.com/THOMASELOVE/500-sources/blob/main/articles/MRFIT%201982.pdf) *Journal of the American Medical Association*
 3. Smith Gordon C S and Pell Jill P 2003 [Parachute use to prevent death and major trauma related to gravitational challenge: Systematic review of randomized controlled trials](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Smith%20and%20Pell%202003%20BMJ%20Parachutes.pdf) *The BMJ*
 4. STROBE Guidelines are available at <https://www.strobe-statement.org/>.
-5. Gum Patricia A et al. 2001 [Aspirin Use and All-Cause Mortality among Patients being Evaluated for Known or Suspected Coronary Artery Disease]([articles/](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Gum%202001%20JAMA%20Aspirin%20Use%20Propensity%20Analysis.pdf) *Journal of the American Medical Association*
+5. Gum Patricia A et al. 2001 [Aspirin Use and All-Cause Mortality among Patients being Evaluated for Known or Suspected Coronary Artery Disease](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Gum%202001%20JAMA%20Aspirin%20Use%20Propensity%20Analysis.pdf) *Journal of the American Medical Association*
 
 ### Not posted to our Sources page
 
