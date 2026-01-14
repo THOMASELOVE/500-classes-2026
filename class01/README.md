@@ -19,7 +19,7 @@ Class | Date | HTML | Quarto | Recording
 ## Registered Students
 
 1. Fai Albuainain
-2. Walaa Alshaia
+2. Wala'a Alshaia
 3. Saar Anis
 4. Jeffrey Lambe
 5. Kathryn Menta
@@ -28,7 +28,7 @@ Class | Date | HTML | Quarto | Recording
 8. Megan Zelinsky
 9. Lily Zhang
 
-## Tell us something interesting (or fun)
+## Tell us something interesting (or fun) from Welcome to 500 Survey
 
 - I registered for marriage last month. 
 - I am a classically trained opera singer, though I just sing around the house now to annoy my cats (and possibly my husband). 
