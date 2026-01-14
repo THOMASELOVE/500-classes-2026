@@ -8,7 +8,7 @@ for everything | for deadlines | expectations | ways to get help | lab submissio
 
 Class | Date | HTML | Quarto | Recording
 :---: | :--------: | :------: | :------: | :-------------:
-04 | 2026-02-05 | **[Slides 04](https://thomaselove.github.io/500-slides-2026/500_slides04.html)** | **[Quarto 04](https://thomaselove.github.io/500-slides-2026/500_slides04.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
+04 | 2026-02-05 | **[Slides 04](https://thomaselove.github.io/500-slides-2026/500-slides04.html)** | **[Quarto 04](https://thomaselove.github.io/500-slides-2026/500-slides04.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
 - The HTML link provides the slides that I will use during class. To print the slides to PDF, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf).
 - The Quarto link downloads the Quarto code (.qmd file) I used to build the slides.
