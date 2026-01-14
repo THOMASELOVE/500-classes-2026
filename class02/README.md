@@ -12,7 +12,6 @@ Class | Date | HTML | Quarto | Recording
 
 - The HTML link provides the slides that I will use during class. To print the slides to PDF, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf).
 - The Quarto link downloads the Quarto code (.qmd file) I used to build the slides.
-- We attempt to record **every** 500 class via Zoom and post the recording to [Canvas](https://canvas.case.edu), but there have occasionally been problems in the past.
 
 ---
 
