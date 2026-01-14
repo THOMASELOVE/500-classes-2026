@@ -28,6 +28,17 @@ Class | Date | HTML | Quarto | Recording
 8. Megan Zelinsky
 9. Lily Zhang
 
+## Tell us something interesting (or fun)
+
+- I registered for marriage last month. 
+- I am a classically trained opera singer, though I just sing around the house now to annoy my cats (and possibly my husband). 
+- I enjoy sewing and embroidery in my free time, and I love gifting my friends things I make by hand.
+- I have been a competitive swimmer for over 14 years now and I can speak multiple languages!
+- I have voluntary control of the vestigial auricular muscles that can wiggle ears. Not a Stan Laurel level wiggle, but not nothing.
+- I am a big trailblazers fan, I love to watch sports, and I enjoy landscaping
+- I live with my eight-month old daughter and wife, who is also trying to build a career as a clinician scientist
+- I love collecting rocks and stones and the TSA usually doesn't appreciate that!
+
 ---
 
 ## Announcements
