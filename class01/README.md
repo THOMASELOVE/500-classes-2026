@@ -16,6 +16,20 @@ Class | Date | HTML | Quarto | Recording
 
 ---
 
+## Registered Students
+
+1. Fai Albuainain
+2. Walaa Alshaia
+3. Saar Anis
+4. Jeffrey Lambe
+5. Kathryn Menta
+6. Feriel Presswalla
+7. Mariam Zayour
+8. Megan Zelinsky
+9. Lily Zhang
+
+---
+
 ## Announcements
 
 1. Welcome to class! If you have any questions, let me know, or email **500-help at case dot edu**.
