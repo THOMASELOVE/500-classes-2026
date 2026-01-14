@@ -14,6 +14,22 @@ Class | Date | HTML | Quarto | Recording
 - The Quarto link downloads the Quarto code (.qmd file) I used to build the slides.
 - We attempt to record **every** 500 class via Zoom and post the recording to [Canvas](https://canvas.case.edu), but there have occasionally been problems in the past.
 
+## Announcements
+
+1. Welcome to class! If you have any questions, let me know, or email **500-help at case dot edu**.
+2. Please complete the [Welcome to 500 Survey](https://bit.ly/500-welcome-2026) by Noon Tuesday 2026-01-20 (ideally, do this today.) Thanks to those of you who've done this already. You need to log into Google via CWRU to access the Survey.
+3. Be sure you see the **Shared Google Drive** named **500 Spring 2026 Students and Dr Love** when you log into Google via CWRU.
+4. Be sure you see our course in [Canvas](https://canvas.case.edu/) so that you have access to our class recordings, etc.
+5. Here is a direct link to the [Lab 0 Example](https://thomaselove.github.io/500-2026/lab0.html)
+6. Read Rosenbaum PR *Causal Inference* through Chapter 3 for our next class. [Amazon link for the book: less than $15](https://www.amazon.com/Causal-Inference-Press-Essential-Knowledge/dp/0262545195).
+7. I've provided [four detailed Examples](https://thomaselove.github.io/500-examples/) using R to do some of the work we'll be doing this term. We'll start to talk about these seriously in Class 4.
+
+## Teaching Assistant
+
+Our teaching assistant is **Sarah Albalawi**. Sarah is a general dentist who recently completed her Master of Public Health degree here at CWRU. She holds a Bachelor of Dental Medicine from King Saud University in her home country, Saudi Arabia. Her research focuses on improving oral health outcomes for medically compromised patients and expanding dental services in rural communities. Outside of academia, Sarah enjoys baking and floral photography.
+
+Although outside of the US for the semester, Sarah will still be holding Zoom office hours every **Sunday** from **2 to 3:30 PM**. Please feel free to drop in, and I'm sure she will provide both patience and skill in trying to help you out. Visit [Canvas](https://canvas.case.edu/) or our **Shared Google Drive** for complete Zoom information.
+
 ---
 
 ## Registered Students
@@ -38,24 +54,6 @@ Class | Date | HTML | Quarto | Recording
 - I am a big trailblazers fan, I love to watch sports, and I enjoy landscaping
 - I live with my eight-month old daughter and wife, who is also trying to build a career as a clinician scientist
 - I love collecting rocks and stones and the TSA usually doesn't appreciate that!
-
----
-
-## Announcements
-
-1. Welcome to class! If you have any questions, let me know, or email **500-help at case dot edu**.
-2. Please complete the [Welcome to 500 Survey](https://bit.ly/500-welcome-2026) by Noon Tuesday 2026-01-20 (ideally, do this today.) Thanks to those of you who've done this already. You need to log into Google via CWRU to access the Survey.
-3. Be sure you see the **Shared Google Drive** named **500 Spring 2026 Students and Dr Love** when you log into Google via CWRU.
-4. Be sure you see our course in [Canvas](https://canvas.case.edu/) so that you have access to our class recordings, etc.
-5. Here is a direct link to the [Lab 0 Example](https://thomaselove.github.io/500-2026/lab0.html)
-6. Read Rosenbaum PR *Causal Inference* through Chapter 3 for our next class. [Amazon link for the book: less than $15](https://www.amazon.com/Causal-Inference-Press-Essential-Knowledge/dp/0262545195).
-7. I've provided [four detailed Examples](https://thomaselove.github.io/500-examples/) using R to do some of the work we'll be doing this term. We'll start to talk about these seriously in Class 4.
-
-## Teaching Assistant
-
-Our teaching assistant is **Sarah Albalawi**. Sarah is a general dentist who recently completed her Master of Public Health degree here at CWRU. She holds a Bachelor of Dental Medicine from King Saud University in her home country, Saudi Arabia. Her research focuses on improving oral health outcomes for medically compromised patients and expanding dental services in rural communities. Outside of academia, Sarah enjoys baking and floral photography.
-
-Although outside of the US for the semester, Sarah will still be holding Zoom office hours every **Sunday** from **2 to 3:30 PM**. Please feel free to drop in, and I'm sure she will provide both patience and skill in trying to help you out. Visit [Canvas](https://canvas.case.edu/) or our **Shared Google Drive** for complete Zoom information.
 
 ---
 
