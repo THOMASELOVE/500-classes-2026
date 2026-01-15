@@ -46,3 +46,6 @@ Class | Date | HTML | Quarto | Recording
 ## Sources for Next Time include...
 
 1. Normand Sharon-Lise T et al. 2001 [Validating recommendations for coronary angiography following acute myocardial infarction in the elderly: A matched analysis using propensity scores](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Normand%20et%20al%202001%20Propensity%20Score%20Matching%20Analysis%20on%20Acute%20MI%20in%20Elderly%20Patients.pdf) *Health Services & Outcomes Research Methodology*
+2. Our [500-examples page](https://thomaselove.github.io/500-examples/)
+
+
