@@ -23,6 +23,7 @@ Class | Date | HTML | Quarto | Recording
 5. Here is a direct link to the [Lab 0 Example](https://thomaselove.github.io/500-2026/lab0.html)
 6. Read Rosenbaum PR *Causal Inference* through Chapter 3 for our next class. [Amazon link for the book: less than $15](https://www.amazon.com/Causal-Inference-Press-Essential-Knowledge/dp/0262545195).
 7. I've provided [four detailed Examples](https://thomaselove.github.io/500-examples/) using R to do some of the work we'll be doing this term. We'll start to talk about these seriously in Class 4.
+8. The materials remain online until 2026-06-01. In May, you will want to download (and keep for yourself) anything you want to have after that date.
 
 ## Teaching Assistant
 
