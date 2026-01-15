@@ -18,3 +18,34 @@ Class | Date | HTML | Quarto | Recording
 ## Announcements
 
 1. To come.
+
+---
+
+## The toy example
+
+- The toy example is linked for you at <https://thomaselove.github.io/500-examples/#the-toy-example>.
+- The toy analysis (HTML) is available at <https://thomaselove.github.io/500-examples/toy_analysis.html>.
+- The toy data set is found on [our 500-data page](https://github.com/THOMASELOVE/500-data).
+
+## Sources from Today's Slides
+
+### Available on our [Sources Page](https://github.com/THOMASELOVE/500-sources)
+
+1. Normand Sharon-Lise T et al. 2001 [Validating recommendations for coronary angiography following acute myocardial infarction in the elderly: A matched analysis using propensity scores](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Normand%20et%20al%202001%20Propensity%20Score%20Matching%20Analysis%20on%20Acute%20MI%20in%20Elderly%20Patients.pdf) *Health Services & Outcomes Research Methodology*
+2. Connors Alfred F et al. 1996 [The Effectiveness of Right Heart Catheterization in the Initial Care of Critically Ill Patients](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Connors%20et%20al%201996%20JAMA%20The%20Right%20Heart%20Catheterization%20Study.pdf) *Journal of the American Medical Association*
+3. Hirano Keisuke and Imbens Guido W 2001 [Estimation of Causal Effects using Propensity Score Weighting: An Application to Data on Right Heart Catheterization](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Hirano%20and%20Imbens%202001%20Weighting%20in%20RHC.pdf) *Health Services & Outcomes Research Methodology*
+4. Hirono Keisuke and Imbens Guido W 2004 [The Propensity Score with Continuous Treatments](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Hirano%20and%20Imbens%202004%20Propensity%20Score%20Generalized%20to%20the%20Case%20of%20Continuous%20Treatments.pdf) draft of a chapter for *Missing Data and Bayesian Methods in Practice*
+
+### Not posted to our Sources page
+
+1. Hirono Keisuke, Imbens Guido W and Ridder Geert 2003 [Efficient Estimation of Average Treatment Effects Using the Estimated Propensity Score](https://www.jstor.org/stable/1555493) *Econometrica*
+
+
+## Sources for Next Time include...
+
+1. Our [500-examples page](https://thomaselove.github.io/500-examples/)
+2. Austin Peter C and Mamdani Muhammad M 2006 [A comparison of propensity score methods: A case study estimating the effectiveness of post-AMI statin use](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Austin%20and%20Mamdani%202006%20case%20study.pdf) *Statistics in Medicine*
+3. Austin Peter C 2014 [A comparison of 12 algorithms for matching on the propensity score](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Austin%202014%20Comparing%2012%20PS%20matching%20algorithms.pdf) *Statistics in Medicine* 33, 1057-69.
+4. Ahmed Mustafa I et al. (including Love TE) 2012 [Outcomes in younger and older adults with chronic advanced systolic heart failure: A propensity-matched study](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Ahmed%20et%20al%202012%20Int%20J%20Card.pdf) *International Journal of Cardiology*
+
+
