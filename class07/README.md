@@ -14,4 +14,5 @@ Class | Date | HTML | Quarto | Recording
 
 ## Announcements
 
-1. More to come.
+1. Remember that we don't have class next week, due to CWRU Spring Break.
+2. More to come.
