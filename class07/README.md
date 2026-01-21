@@ -15,4 +15,5 @@ Class | Date | HTML | Quarto | Recording
 ## Announcements
 
 1. Remember that we don't have class next week, due to CWRU Spring Break.
-2. More to come.
+2. A key item we'll be using today is [this tool from Paul Rosenbaum](https://rosenbap.shinyapps.io/learnsenShiny/), about sensitivity analysis.
+3. More to come.
