@@ -18,3 +18,5 @@ Class | Date | HTML | Quarto | Recording
 ## Announcements
 
 1. To come.
+2. A key item we'll be using in Class 7 is [this tool from Paul Rosenbaum](https://rosenbap.shinyapps.io/learnsenShiny/), about sensitivity analysis.
+
