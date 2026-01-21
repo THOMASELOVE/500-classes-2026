@@ -15,4 +15,5 @@ Class | Date | HTML | Quarto | Recording
 ## Announcements
 
 1. Remember that we will **not have class next week**, to give you some extra time to work on your OSIA and Project Proposal.
-2. More to come.
+2. A key item we'll be using in Class 7 is [this tool from Paul Rosenbaum](https://rosenbap.shinyapps.io/learnsenShiny/), about sensitivity analysis.
+3. More to come.
