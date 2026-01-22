@@ -17,7 +17,7 @@ Class | Date | HTML | Quarto | Recording
 
 ## Announcements
 
-1. To come.
+1. Lab 1 is due next Tuesday at noon.
 
 ---
 
