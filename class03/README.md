@@ -25,6 +25,14 @@ Class | Date | HTML | Quarto | Recording
 
 ---
 
+## Three Focal Points from Rosenbaum Chapter 4 (Adjustments for Measured Covariates)
+
+- The importance of balance in measured covariates for eventual assessment of outcomes after (for example) building a matched sample.
+- How *matching* on the propensity score improves that covariate balance.
+- Comparing outcomes after matching (on the propensity score, and/or something else.)
+
+---
+
 ## Sources from Today's Slides
 
 ### Available on our [Sources Page](https://github.com/THOMASELOVE/500-sources)
