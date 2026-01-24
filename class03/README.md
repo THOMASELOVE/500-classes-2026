@@ -31,6 +31,12 @@ Class | Date | HTML | Quarto | Recording
 - How *matching* on the propensity score improves that covariate balance.
 - Comparing outcomes after matching (on the propensity score, and/or something else.)
 
+### Our Usual Three Questions for Discussion as a Small Group
+
+1. What was the most important thing you learned from reading Chapter 4?
+2. What was the muddiest, least clear thing that arose in your reading?
+3. What questions are at the front of your mind now?
+
 ---
 
 ## Sources from Today's Slides
