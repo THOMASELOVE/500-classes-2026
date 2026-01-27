@@ -17,7 +17,7 @@ Class | Date | HTML | Quarto | Recording
 
 ## Announcements
 
-1. An answer sketch for [Lab 1](https://thomaselove.github.io/500-2026/lab1.html) will be posted to our **Shared Drive** (500 Spring 2026 Students and Dr Love) **by class time**.
+1. An answer sketch for [Lab 1](https://thomaselove.github.io/500-2026/lab1.html) will be posted to our **Shared Drive** (500 Spring 2026 Students and Dr Love) **by class time**. Note that [Lab 2](https://thomaselove.github.io/500-2026/lab2.html) is due 2026-02-24.
 2. Today's class will include a discussion of Chapter 4 (Adjustments for Measured Covariates) from Rosenbaum *Causal Inference*.
 3. Much of next week's class 4 will focus on learning how to use R to do propensity score analyses, following [the Toy Example](https://thomaselove.github.io/500-examples/#the-toy-example) from our [500-examples page](https://thomaselove.github.io/500-examples/).
 4. Prior to our next class, we want you to read Rosenbaum Chapter 5 (Sensitivity to Unmeasured Covariates) and skim through [Normand 2001](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Normand%20et%20al%202001%20Propensity%20Score%20Matching%20Analysis%20on%20Acute%20MI%20in%20Elderly%20Patients.pdf)
