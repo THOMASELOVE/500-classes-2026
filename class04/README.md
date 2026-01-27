@@ -17,7 +17,7 @@ Class | Date | HTML | Quarto | Recording
 
 ## Announcements
 
-1. To come.
+1. Remember to email me your OSIA selections by noon on Tuesday 2026-02-10. Current selections [are posted here](https://github.com/THOMASELOVE/500-classes-2026/tree/main/osia).
 
 ---
 
