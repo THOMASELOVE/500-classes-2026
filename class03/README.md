@@ -22,6 +22,7 @@ Class | Date | HTML | Quarto | Recording
 3. Much of next week's class 4 will focus on learning how to use R to do propensity score analyses, following [the Toy Example](https://thomaselove.github.io/500-examples/#the-toy-example) from our [500-examples page](https://thomaselove.github.io/500-examples/).
 4. Prior to our next class, we want you to read Rosenbaum Chapter 5 (Sensitivity to Unmeasured Covariates) and skim through [Normand 2001](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Normand%20et%20al%202001%20Propensity%20Score%20Matching%20Analysis%20on%20Acute%20MI%20in%20Elderly%20Patients.pdf)
 5. Please be sure to email me your [OSIA selections](https://thomaselove.github.io/500-2026/osia.html) by Noon on 2026-02-10. We'll spend a moment today to discuss the [OSIA (Observational Studies in Action) assignment](https://thomaselove.github.io/500-2026/osia.html).
+    - Current selections [are posted here](https://github.com/THOMASELOVE/500-classes-2026/tree/main/osia).
 
 ---
 
