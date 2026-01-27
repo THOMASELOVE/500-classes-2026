@@ -24,6 +24,7 @@ Class | Date | HTML | Quarto | Recording
 5. Please be sure to email me your [OSIA selections](https://thomaselove.github.io/500-2026/osia.html) by Noon on 2026-02-10.
     - We'll spend a moment today to discuss the [OSIA (Observational Studies in Action) assignment](https://thomaselove.github.io/500-2026/osia.html).
     - Current selections [are posted here](https://github.com/THOMASELOVE/500-classes-2026/tree/main/osia).
+6. It would be very wise to have your [Project Data](https://thomaselove.github.io/500-2026/proj500.html) ingested into R by class time on 2026-02-12, so that you won't have trouble completing your [Project Proposal](https://thomaselove.github.io/500-2026/proj500.html) by 2026-03-03.
 
 ---
 
