@@ -18,7 +18,9 @@ Class | Date | HTML | Quarto | Recording
 ## Announcements
 
 1. Remember to email me [your OSIA selections](https://thomaselove.github.io/500-2026/osia.html) by noon on Tuesday 2026-02-10. Current selections [are posted here](https://github.com/THOMASELOVE/500-classes-2026/tree/main/osia).
-2. Today's class will include a discussion of Chapter 5 (Sensitivity to Unmeasured Covariates)
+2. Today's class will include a discussion of Chapter 5 (Sensitivity to Unmeasured Covariates) from Rosenbaum's *Causal Inference*.
+3. Prior to our next class, be sure to read Rosenbaum Chapter 6 (Quasi-Experimental Devices) and skim [Austin (2014)](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Austin%202014%20Comparing%2012%20PS%20matching%20algorithms.pdf) and [Ahmed MI (2012)](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Ahmed%20et%20al%202012%20Int%20J%20Card.pdf)
+4. At our next class, we will spend meaningful time with both [the lindner example](https://thomaselove.github.io/500-examples/#the-lindner-example) and [the dm2200 example](https://thomaselove.github.io/500-examples/#the-dm2200-example).
 
 ---
 
