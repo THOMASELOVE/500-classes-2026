@@ -18,6 +18,7 @@ Class | Date | HTML | Quarto | Recording
 ## Announcements
 
 1. Remember to email me [your OSIA selections](https://thomaselove.github.io/500-2026/osia.html) by noon on Tuesday 2026-02-10. Current selections [are posted here](https://github.com/THOMASELOVE/500-classes-2026/tree/main/osia).
+2. Today's class will include a discussion of Chapter 5 (Sensitivity to Unmeasured Covariates)
 
 ---
 
@@ -26,6 +27,22 @@ Class | Date | HTML | Quarto | Recording
 - The toy example is linked for you at <https://thomaselove.github.io/500-examples/#the-toy-example>.
 - The toy analysis (HTML) is available at <https://thomaselove.github.io/500-examples/toy_analysis.html>.
 - The toy data set is found on [our 500-data page](https://github.com/THOMASELOVE/500-data).
+
+---
+
+## Three Focal Points from Rosenbaum Chapter 5 (Sensitivity to Unmeasured Covariates) for your consideration
+
+- How should one strike the right balance between scientific evidence and criticism of scientific evidence?
+- Quantifying the bias needed to explain an association between a treatment and an outcome that is seen in the data is an important advance.
+- Sensitivity analysis can either be "a shield against frivolous conterclaims," or it can reveal a claim to be "highly dependent on dubious assumptions."
+
+### Our Usual Three Questions for Discussion as a Small Group
+
+1. What was the most important thing you learned from reading Chapter 4?
+2. What was the muddiest, least clear thing that arose in your reading?
+3. What questions are at the front of your mind now?
+
+---
 
 ## Sources from Today's Slides
 
