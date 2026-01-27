@@ -4,4 +4,4 @@
 
 First Reader | Second Reader | Article 
 :------------: | :-------------: | :-----------------------------------------------------------------------------------------------
-Kathryn Menta | TBD | Tran et al. 2026 [Role of Chronic Conditions in Out-of-Pocket Costs for Preventive Care in the US](articles/Tran2026.pdf) *JAMANetworkOpen* 9(1): e2553157. (Note: supplemental content (2 PDFs) will be found on our Shared Drive.)
+Kathryn Menta | TBD | Tran et al. 2026 [Role of Chronic Conditions in Out-of-Pocket Costs for Preventive Care in the US](articles/Tran2026.pdf) <br/> *JAMANetworkOpen* 9(1): e2553157. <br/> (Note: supplemental content (2 PDFs) will be found on our Shared Drive.)
