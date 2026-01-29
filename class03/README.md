@@ -17,7 +17,7 @@ Class | Date | HTML | Quarto | Recording
 
 ## Announcements
 
-1. An answer sketch for [Lab 1](https://thomaselove.github.io/500-2026/lab1.html) is now available our **Shared Drive** (500 Spring 2026 Students and Dr Love). Sarah will post grades (either 9 or 10 out of 10) and individual feedback on [Canvas](https://canvas.case.edu) as she completes her assessments.
+1. An answer sketch for [Lab 1](https://thomaselove.github.io/500-2026/lab1.html) is now available on our **Shared Drive** (500 Spring 2026 Students and Dr Love). Sarah will post grades (either 9 or 10 out of 10) and individual feedback on [Canvas](https://canvas.case.edu) as she completes her assessments.
     - Note that [Lab 2](https://thomaselove.github.io/500-2026/lab2.html) is due on 2026-02-24.
 2. Today's class will include a discussion of Chapter 4 (Adjustments for Measured Covariates) from Rosenbaum *Causal Inference*. See some thoughts below.
 3. Much of next week's class 4 will focus on learning how to use R to do propensity score analyses, following [the Toy Example](https://thomaselove.github.io/500-examples/#the-toy-example) from our [500-examples page](https://thomaselove.github.io/500-examples/).
