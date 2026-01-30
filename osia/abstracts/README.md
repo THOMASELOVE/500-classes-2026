@@ -1,9 +1,10 @@
 # OSIA manuscript abstracts for 2026
 
-1. [Hung et al 2023](#hung-et-al-2023)
-2. [Palzes et al 2026](#palzes-et-al-2026)
-3. Tran et al 2026(#tran-et-al-2026)
+## Table of Contents
 
+1. [Hung et al 2023](#hung-et-al-2023), first reader: Lily Zhang
+2. [Palzes et al 2026](#palzes-et-al-2026), first reader: Mariam Zayour
+3. [Tran et al 2026](#tran-et-al-2026), first reader: Kathryn Menta
 
 
 ## Hung et al. 2023
