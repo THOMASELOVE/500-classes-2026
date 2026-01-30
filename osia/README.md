@@ -2,6 +2,8 @@
 
 ## Selections (due 2026-02-10 at noon)
 
+Note: You can read the abstracts for all selections [at this link](https://github.com/THOMASELOVE/500-classes-2026/blob/main/osia/abstracts/README.md).
+
 First Reader | Second Reader | Article 
 :------------: | :-------------: | :-----------------------------------------------------------------------------------------------
 Lily Zhang | TBD | Hung et al. 2023 [Molecular subtypes of breast cancer predicting clinical benefits of radiotherapy](articles/Hung2023_main.pdf) <br/> [after breast-conserving surgery: a propensity-score-matched cohort study](articles/Hung2023_main.pdf) <br/> *Breast Cancer Research* 25: 149. doi: [10.1186/s13058-023-01747-9](https://link.springer.com/article/10.1186/s13058-023-01747-9)
