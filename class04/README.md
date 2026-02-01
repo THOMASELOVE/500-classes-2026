@@ -48,7 +48,7 @@ Class | Date | HTML | Quarto | Recording
 
 ---
 
-## Sources from Today's Slides
+## Source from Today's Slides
 
 ### Available on our [Sources Page](https://github.com/THOMASELOVE/500-sources)
 
