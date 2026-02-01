@@ -53,14 +53,6 @@ Class | Date | HTML | Quarto | Recording
 ### Available on our [Sources Page](https://github.com/THOMASELOVE/500-sources)
 
 1. Normand Sharon-Lise T et al. 2001 [Validating recommendations for coronary angiography following acute myocardial infarction in the elderly: A matched analysis using propensity scores](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Normand%20et%20al%202001%20Propensity%20Score%20Matching%20Analysis%20on%20Acute%20MI%20in%20Elderly%20Patients.pdf) *Health Services & Outcomes Research Methodology*
-2. Connors Alfred F et al. 1996 [The Effectiveness of Right Heart Catheterization in the Initial Care of Critically Ill Patients](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Connors%20et%20al%201996%20JAMA%20The%20Right%20Heart%20Catheterization%20Study.pdf) *Journal of the American Medical Association*
-3. Hirano Keisuke and Imbens Guido W 2001 [Estimation of Causal Effects using Propensity Score Weighting: An Application to Data on Right Heart Catheterization](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Hirano%20and%20Imbens%202001%20Weighting%20in%20RHC.pdf) *Health Services & Outcomes Research Methodology*
-4. Hirono Keisuke and Imbens Guido W 2004 [The Propensity Score with Continuous Treatments](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Hirano%20and%20Imbens%202004%20Propensity%20Score%20Generalized%20to%20the%20Case%20of%20Continuous%20Treatments.pdf) draft of a chapter for *Missing Data and Bayesian Methods in Practice*
-
-### Not posted to our Sources page
-
-1. Hirono Keisuke, Imbens Guido W and Ridder Geert 2003 [Efficient Estimation of Average Treatment Effects Using the Estimated Propensity Score](https://www.jstor.org/stable/1555493) *Econometrica*
-
 
 ## Sources for Next Time include...
 
