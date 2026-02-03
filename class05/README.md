@@ -14,7 +14,7 @@ Class | Date | HTML | Quarto | Recording
 
 ## Announcements
 
-1. Remember that we will **not have class next week**, to give you some extra time to work on your OSIA and Project Proposal. I will be out of town, but responsive to email, and Sarah will hold her usual Sunday office hours. Our next class (Class 6) will be Thursday 2026-02-26.
+1. Remember that we will **not have class next week**, to give you some extra time to work on your OSIA, Lab 2, and Project Proposal. I will be out of town, but responsive to email, and Sarah will hold her usual Sunday office hours. Our next class (Class 6) will be Thursday 2026-02-26.
 2. [Lab 2](https://thomaselove.github.io/500-2026/lab2.html) is due to [Canvas](https://canvas.case.edu/) at noon on 2026-02-24.
 3. A key item we'll be using in Class 7 is [this tool from Paul Rosenbaum](https://rosenbap.shinyapps.io/learnsenShiny/), about sensitivity analysis.
 4. Today, we'll discuss [the lindner example](https://thomaselove.github.io/500-examples/#the-lindner-example) and [the dm2200 example](https://thomaselove.github.io/500-examples/#the-dm2200-example) from [our 500-examples page](https://thomaselove.github.io/500-examples/).
