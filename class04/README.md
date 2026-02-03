@@ -24,6 +24,13 @@ Class | Date | HTML | Quarto | Recording
 5. It would be very wise to have your Project Data ingested into R by class time next week (2026-02-12).
 6. [Lab 2](https://thomaselove.github.io/500-2026/lab2.html) is due 2026-02-24.
 
+## Some comments on Lab 1 from Sarah
+
+Two issues arose relative to the answer sketch:
+
+- *Logistic model fitted probabilities*: A couple of people had their fitted probabilities slightly off (mean range between 0.4 - 0.5 instead of 0.6 - 0.7). I checked their codes and noticed that they used the glm code with family=binomial(), instead of family=binomial(link=logit), but that doesn't seem likely to be the problem.
+- *Missing observations discrepancies*: Using the following code seemed to misinterpret some observations as NA that were not: `sapply(dig_sample, function(x) sum(is.na(x)))` and again, not everyone had the same response.
+
 ---
 
 ## The toy example
