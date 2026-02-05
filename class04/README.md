@@ -29,6 +29,7 @@ Class | Date | HTML | Quarto | Recording
 Two issues arose relative to the answer sketch:
 
 - *Logistic model fitted probabilities*: When fitting a logistic regression model, it's probably best to use 1 and 0 as the codes for the outcome, rather than, say, "A" vs. "B" unless you are extra certain that your model is actually fitting the probability of "A" instead of "B". If you code your response y as 1 (yes), 0 (no), then R will fit Prob(y = 1) unless you specifically tell it not to do so.
+    - As an example, consider whether `glm( prevmi_f ~ trtmt_f + ...)` produces the same result as either `glm(prevmi ~ treat_f + ...)` or `glm((prevmi_f == "Yes") ~ treat_f + ...)`, and which of those is actually the one you want.
 - *Missing observations discrepancies*: Using the following code seemed to misinterpret some observations as NA that were not: `sapply(dig_sample, function(x) sum(is.na(x)))`. You have to think through what is missing for each observation (row) in the data. The [naniar package](https://naniar.njtierney.com) can be helpful in summarizing missingness.
 
 ---
