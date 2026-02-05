@@ -28,7 +28,7 @@ Class | Date | HTML | Quarto | Recording
 
 Two issues arose relative to the answer sketch:
 
-- *Logistic model fitted probabilities*: When fitting a logistic regression model, it's probably best to use 1 and 0 as the codes for the outcome, rather than, say, "A" vs. "B" unless you are extra certain that you are fitting the probability of "A" instead of "B". If you code your response y as 1 (yes), 0 (no) then R will fit Prob(y = 1).
+- *Logistic model fitted probabilities*: When fitting a logistic regression model, it's probably best to use 1 and 0 as the codes for the outcome, rather than, say, "A" vs. "B" unless you are extra certain that your model is actually fitting the probability of "A" instead of "B". If you code your response y as 1 (yes), 0 (no) then R will fit Prob(y = 1).
 - *Missing observations discrepancies*: Using the following code seemed to misinterpret some observations as NA that were not: `sapply(dig_sample, function(x) sum(is.na(x)))` and again, not everyone had the same response. The [naniar package](https://naniar.njtierney.com/) can be helpful in summarizing missingness.
 
 ---
