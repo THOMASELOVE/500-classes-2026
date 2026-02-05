@@ -46,11 +46,11 @@ Two issues arose relative to the answer sketch:
 
 - How should one strike the right balance between scientific evidence and criticism of scientific evidence?
 - Quantifying the bias needed to explain an association between a treatment and an outcome that is seen in the data is an important advance.
-- Sensitivity analysis can either be "a shield against frivolous conterclaims," or it can reveal a claim to be "highly dependent on dubious assumptions."
+- Sensitivity analysis can either be "a shield against frivolous counterclaims," or it can reveal a claim to be "highly dependent on dubious assumptions."
 
 ### Our Usual Three Questions for Discussion as a Small Group
 
-1. What was the most important thing you learned from reading Chapter 4?
+1. What was the most important thing you learned from reading Chapter 5?
 2. What was the muddiest, least clear thing that arose in your reading?
 3. What questions are at the front of your mind now?
 
