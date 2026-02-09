@@ -31,6 +31,7 @@ Class | Date | HTML | Quarto | Recording
 1. Austin Peter C and Mamdani Muhammad M 2006 [A comparison of propensity score methods: A case study estimating the effectiveness of post-AMI statin use](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Austin%20and%20Mamdani%202006%20case%20study.pdf) *Statistics in Medicine*
 2. Austin Peter C 2014 [A comparison of 12 algorithms for matching on the propensity score](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Austin%202014%20Comparing%2012%20PS%20matching%20algorithms.pdf) *Statistics in Medicine* 33, 1057-69.
 3. Ahmed Mustafa I et al. (including Love TE) 2012 [Outcomes in younger and older adults with chronic advanced systolic heart failure: A propensity-matched study](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Ahmed%20et%20al%202012%20Int%20J%20Card.pdf) *International Journal of Cardiology*
+4. Normand Sharon-Lise T et al. 2001 [Validating recommendations for coronary angiography following acute myocardial infarction in the elderly: A matched analysis using propensity scores](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Normand%20et%20al%202001%20Propensity%20Score%20Matching%20Analysis%20on%20Acute%20MI%20in%20Elderly%20Patients.pdf) *Health Services & Outcomes Research Methodology*
 
 ### Not posted to our Sources page
 
@@ -41,3 +42,7 @@ Class | Date | HTML | Quarto | Recording
 1. Rubin Donald B 2001 [Using Propensity Scores to help Design Observational Studies: Application to the Tobacco Litigation](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Rubin%202001%20Tobacco%20Litigation%20article.pdf) *Health Services & Outcomes Research Methodology*
 2. (in a little more detail) Austin Peter C and Mamdani Muhammad M 2006 [A comparison of propensity score methods: A case study estimating the effectiveness of post-AMI statin use](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Austin%20and%20Mamdani%202006%20case%20study.pdf) *Statistics in Medicine*
 3. Kubo Yusuke et al. 2020 [Effects of preoperative low-intensity training with slow movement on early quadriceps weakness after total knee arthroplasty in patients with knee osteoarthritis: a retrospective propensity score-matched study](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Kubo_2020_extra.pdf) *BMC Sports Science, Medicine and Rehabilitation*
+
+and Rosenbaum Chapter 6 (Quasi-Experimental Devices)
+
+
