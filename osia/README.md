@@ -14,7 +14,7 @@ Kathryn Menta | TBD | Tran et al. 2026 [Role of Chronic Conditions in Out-of-Poc
 Wala'a Alshaia | TBD | TBD
 Saar Anis | TBD | TBD
 Megan Zelinsky | TBD | TBD
-Feriel Presswalla | TBD | TBD
+Feriel Presswalla | Huang et al. 2024 Long-term safety and efficacy of glucagon-like peptide-1 receptor agonists in individuals with obesity and without type 2 diabetes: A global retrospective cohort study (**details still pending**) | TBD
 
 
 
