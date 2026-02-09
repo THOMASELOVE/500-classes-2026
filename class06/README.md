@@ -39,3 +39,19 @@ Class | Date | HTML | Quarto | Recording
 3. Connors Alfred F et al. 1996 [The Effectiveness of Right Heart Catheterization in the Initial Care of Critically Ill Patients](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Connors%20et%20al%201996%20JAMA%20The%20Right%20Heart%20Catheterization%20Study.pdf) *Journal of the American Medical Association*
 4. D'Agostino Ralph B Jr. 1998 [Tutorial in Biostatistics: Propensity Score Methods for Bias Reduction in the Comparison of a Treatment to a Non-Randomized Control Group](https://github.com/THOMASELOVE/500-sources/blob/main/articles/D'Agostino%201998%20SIM%20Tutorial%20on%20Propensity%20Scores.pdf) *Statistics in Medicine*
 
+---
+
+## Three Focal Points from Rosenbaum Chapter 6 (Quasi-Experimental Device) for your consideration
+
+- What is a quasi-experimental device?
+    - A quasi-experimental device strengthens a causal claim using data that weakens some anticipated counter-claim.
+- Why consider having two control groups?
+    - If two control groups have similar outcomes despite great differences in terms of some unmeasured covariate, that tends to undermine a claim that the treated and control groups have different outcomes because of a failure to control for that covariate.
+- Correct explanations are found by eliminating mistaken explanations, one at a time.
+    - "When you have eliminated all which is impossible, then whatever remains, however improbable, must be the truth." (Arthur Conan Doyle)
+
+### Our Usual Three Questions for Discussion as a Small Group
+
+1. What was the most important thing you learned from reading Chapter 5?
+2. What was the muddiest, least clear thing that arose in your reading?
+3. What questions are at the front of your mind now?
