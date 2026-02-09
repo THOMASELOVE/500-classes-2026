@@ -24,6 +24,18 @@ Class | Date | HTML | Quarto | Recording
 
 ---
 
+## A Few Additional Comments on Rosenbaum Chapter 5 (Sensitivity to Unmeasured Covariates)
+
+1. Bias in treatment assignment can be quantified by calculating a value of $\Gamma$ (gamma), which will be greater than or equal to 1.
+2. If we have matched samples showing a conclusion backed by a *p* value below a pre-specified $\alpha$ level, then we can develop a $\Gamma$ for that study using a process we will discuss in Chapter 7 and which is demonstrated in (among other places) the toy example.
+3. If the matched sample shows a large *p* value for the treatment's effect on our outcome, then $\Gamma$ is not relevant.
+4. How do we interpret this $\Gamma$ value once we have it:
+    - Values of $\Gamma$ close to 1 (for instance, between 1.1 and 1.5) indicate studies which are highly sensitive to the impact of hidden bias. Even a small hidden bias can change the conclusion of our propensity-matched study.
+    - Values of $\Gamma$ much greater than 1 (for instance, greater than 2) indicate studies which are highly robust to the impact of modest hidden bias. Only a fairly large hidden bias can change the conclusion of our propensity-matched study.
+5. $\Gamma$ tells us only the size of hidden bias which is required to change our conclusion. It can be helpful to describe the required $\Gamma$ to change our conclusion in a more detailed way, and we will see some ways to do this.
+
+---
+
 ## Sources from Today's Slides
 
 ### Available on our [Sources Page](https://github.com/THOMASELOVE/500-sources)
