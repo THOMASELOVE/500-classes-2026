@@ -12,7 +12,6 @@
 8. [Tran et al 2026](#tran-et-al-2026), first reader: Kathryn Menta
 9. [Wang et al 2024](), first reader: Wala'a Alshaia
 
-
 ## Barbuti et al. 2025
 
 ![](Barbuti2025_abstract.png)
@@ -47,4 +46,6 @@
 
 ## Wang et al. 2024
 
-![](Wang2024_abstract.png)
+![](Wang2024_abstract1.png)
+![](Wang2024_abstract2.png)
+![](Wang2024_abstract3.png)
