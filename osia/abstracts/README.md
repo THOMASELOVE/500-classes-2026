@@ -1,5 +1,7 @@
 # OSIA manuscript abstracts for 2026
 
+For links to the complete schedule and articles, [visit here](https://github.com/THOMASELOVE/500-classes-2026/tree/main/osia).
+
 ## Table of Contents
 
 1. [Barbuti et al 2025](#barbuti-et-al-2025), first reader: Jeff Lambe
