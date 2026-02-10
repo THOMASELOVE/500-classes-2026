@@ -1,6 +1,6 @@
 # Observational Studies in Action
 
-## Claimed Selections (due 2026-02-10 at noon)
+## Claimed Selections 
 
 Note: You can read the abstracts for all selections [at this link](https://github.com/THOMASELOVE/500-classes-2026/blob/main/osia/abstracts/README.md).
 
