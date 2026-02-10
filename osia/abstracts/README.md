@@ -47,5 +47,5 @@
 ## Wang et al. 2024
 
 ![](Wang2024_abstract1.png)
-![](Wang2024_abstract2.png)
 ![](Wang2024_abstract3.png)
+![](Wang2024_abstract2.png)
