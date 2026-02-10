@@ -3,7 +3,7 @@
 ## Table of Contents
 
 1. [Barbuti et al 2025](#barbuti-et-al-2025), first reader: Jeff Lambe
-2. [Ferreira-Atuesta et al 2026](), first reader: Megan Zelinsky
+2. [Ferreira-Atuesta et al 2026](#ferreira-atuesta-et-al-2026), first reader: Megan Zelinsky
 3. [Huang YN et al 2024](), first reader: Feriel Presswalla
 4. [Hung SK et al 2023](#hung-et-al-2023), first reader: Lily Zhang
 5. [Palzes et al 2026](#palzes-et-al-2026), first reader: Mariam Zayour
