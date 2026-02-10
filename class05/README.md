@@ -17,10 +17,11 @@ Class | Date | HTML | Quarto | Recording
 1. Remember that we will **not have class next week**, to give you some extra time to work on your [Lab 2](https://thomaselove.github.io/500-2026/lab2.html), and [Project Proposal](https://thomaselove.github.io/500-2026/proj500.html).
     - I will be out of town, but responsive to email, and Sarah will hold her usual Sunday office hours.
     - Our next class (Class 6) will be Thursday 2026-02-26.
-2. [Lab 2](https://thomaselove.github.io/500-2026/lab2.html) is due to [Canvas](https://canvas.case.edu/) at noon on 2026-02-24.
-3. A key item we'll be using in Class 7 is [this tool from Paul Rosenbaum](https://rosenbap.shinyapps.io/learnsenShiny/), about sensitivity analysis.
-4. Today, we'll discuss [the lindner example](https://thomaselove.github.io/500-examples/#the-lindner-example) and [the dm2200 example](https://thomaselove.github.io/500-examples/#the-dm2200-example) from [our 500-examples page](https://thomaselove.github.io/500-examples/).
-5. Today, we'll **also** set up the process to schedule your OSIA and determine who will be the second reader for each article. **Details to come.**
+2. All OSIA selections [are now approved and posted here](https://github.com/THOMASELOVE/500-classes-2026/tree/main/osia). **Please** visit <https://bit.ly/500-2026-osia-selections> to specify your first, second and third choice articles to serve as second reader (and indicate your availability for scheduling) as soon as possible, but no later than Tuesday 2026-02-17 at noon. Thank you!
+3. [Lab 2](https://thomaselove.github.io/500-2026/lab2.html) is due to [Canvas](https://canvas.case.edu/) at noon on 2026-02-24.
+4. A key item we'll be using in Class 7 is [this tool from Paul Rosenbaum](https://rosenbap.shinyapps.io/learnsenShiny/), about sensitivity analysis.
+5. Today, we'll discuss [the lindner example](https://thomaselove.github.io/500-examples/#the-lindner-example) and [the dm2200 example](https://thomaselove.github.io/500-examples/#the-dm2200-example) from [our 500-examples page](https://thomaselove.github.io/500-examples/).
+6. Today, we'll **also** set up the process to schedule your OSIA and determine who will be the second reader for each article. **Details to come.**
 
 ---
 
