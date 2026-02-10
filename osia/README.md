@@ -12,7 +12,7 @@ Mariam Zayour | TBD | Palzes et al. 2026 [Glucagon-Like Peptide-1 Receptor Agoni
 Fai Albuainain | TBD | Rogerson et al. 2024 [A matched analysis of the use of high flow nasal cannula](articles/Rogerson2024_main.pdf) <br/> [for pediatric severe acute asthma](articles/Rogerson2024_main.pdf) <br/> *Pediatric Pulmonology* 59: 3457-34766. doi: [10.1002/ppul.27233](https://doi.org/10.1002/ppul.27233) <br/> **Supplement** (1 PDF) found on our Shared Drive.
 Kathryn Menta | TBD | Tran et al. 2026 [Role of Chronic Conditions in Out-of-Pocket Costs for](articles/Tran2026_main.pdf) <br/> [Preventive Care in the US](articles/Tran2026_main.pdf) <br/> *JAMA Network Open* 9(1): e2553157. doi:[10.1001/jamanetworkopen.2025.53157](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2843536) <br/> **Supplements** (1 PDF, 1 Excel) found on our Shared Drive.
 Wala'a Alshaia | TBD | TBD
-Saar Anis | TBD | TBD
+Saar Anis | TBD | Siddeeque et al. 2024 [Neuroprotective effects of GLP-1 receptor agonists in neurodegenerative Disorders: A Large-Scale Propensity-Matched cohort study](articles/Siddeeque2024_main.pdf) <br/> *International Immunopharmacology* 143: 113537. doi:[10.1016/j.intimp.2024.113537](https://doi.org/10.1016/j.intimp.2024.113537) <br/> **Supplement** (1 PDF) found on our Shared Drive.
 Megan Zelinsky | TBD | TBD
 Feriel Presswalla | TBD | Huang et al. 2024 Long-term safety and efficacy of glucagon-like peptide-1 receptor agonists in individuals with obesity and without type 2 diabetes: A global retrospective cohort study (**details still pending**)
 
