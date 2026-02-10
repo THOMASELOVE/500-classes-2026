@@ -2,6 +2,8 @@
 
 ## Claimed Selections 
 
+**Please** visit <https://bit.ly/500-2026-osia-selections> to specify your first, second and third choice articles to serve as second reader (and indicate your availability for scheduling) as soon as possible, but no later than Tuesday 2026-02-17 at noon. Thank you!
+
 Note: You can read the abstracts for all selections [at this link](https://github.com/THOMASELOVE/500-classes-2026/blob/main/osia/abstracts/README.md).
 
 First Reader | Second Reader | Article 
