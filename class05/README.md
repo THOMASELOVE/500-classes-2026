@@ -21,7 +21,6 @@ Class | Date | HTML | Quarto | Recording
 3. [Lab 2](https://thomaselove.github.io/500-2026/lab2.html) is due to [Canvas](https://canvas.case.edu/) at noon on 2026-02-24.
 4. A key item we'll be using in Class 7 is [this tool from Paul Rosenbaum](https://rosenbap.shinyapps.io/learnsenShiny/), about sensitivity analysis.
 5. Today, we'll discuss [the lindner example](https://thomaselove.github.io/500-examples/#the-lindner-example) and [the dm2200 example](https://thomaselove.github.io/500-examples/#the-dm2200-example) from [our 500-examples page](https://thomaselove.github.io/500-examples/).
-6. Today, we'll **also** set up the process to schedule your OSIA and determine who will be the second reader for each article. **Details to come.**
 
 ---
 
