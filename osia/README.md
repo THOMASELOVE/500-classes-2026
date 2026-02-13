@@ -22,7 +22,7 @@ Megan Zelinsky | Jeff Lambe | Ferreira-Atuesta et al. 2026 *Neurology* 106: e214
 Mariam Zayour | Fai Albuainain | Palzes et al. 2026 *Biological Psychiatry: Global Open Science* 16:100659 <br/> [Glucagon-Like Peptide-1 Receptor Agonists and Alcohol Use:](articles/Palzes2026_main.pdf) <br/> [A Real-Word Observational Study in a Large, Integrated](articles/Palzes2026_main.pdf) <br/> [Health Care System](articles/Palzes2026_main.pdf) <br/> **Supplements** (1 PDF, 1 Excel) found on our Shared Drive.
 Lily Zhang | Thomas Love | Hung SK et al. 2023 *Breast Cancer Research* 25: 149. <br/>  [Molecular subtypes of breast cancer predicting clinical benefits](articles/HungSK2023_main.pdf) <br/> [of radiotherapy after breast-conserving surgery:](articles/HungSK2023_main.pdf) <br/> [A propensity-score-matched cohort study](articles/HungSK2023_main.pdf) <br/> No supplements.
 
-## Class 11: 2026-04-02
+## Class 11: 2026-04-09
 
 First Reader | Second Reader | Article 
 :------------: | :-------------: | :-----------------------------------------------------------------------------------------------
