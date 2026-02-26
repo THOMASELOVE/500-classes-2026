@@ -18,7 +18,7 @@ Class | Date | HTML | Quarto | Recording
 ## Announcements
 
 1. Complete information on the OSIA schedule and second readers plan [is now available](https://github.com/THOMASELOVE/500-classes-2026/tree/main/osia).
-2. An answer sketch for [Lab 2] can be found on our Shared Drive.
+2. An answer sketch for Lab 2 can be found on our Shared Drive.
 3. Your [Project Proposal](https://thomaselove.github.io/500-2026/proj500.html) is due to [Canvas](https://canvas.case.edu/) at noon on Tuesday 2026-03-03.
     - I will summarize proposals [here](https://github.com/THOMASELOVE/500-classes-2026/blob/main/project/README.md), as they come in.
 4. A reminder that a key item I'd like you to look at before Class 7 next week is [this tool from Paul Rosenbaum](https://rosenbap.shinyapps.io/learnsenShiny/), about sensitivity analysis.
