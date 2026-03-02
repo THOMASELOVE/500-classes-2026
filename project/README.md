@@ -12,7 +12,7 @@ Lighting Up, Breathing Less? Smoking and Asthma in Teens | Among U.S. adolescent
 
 Lily Zhang: Title | Research Question | "Treated" | "Control" | Outcome(s) | Covariates
 :-------------------------------- | :-------------------------------------- | :------------: | :------------: | :------------------: | :-------:
-Comparative Effectiveness of Oral Monotherapy Versus Dual Therapy on HbA1c Levels Among Adults With Type 2 Diabetes | Among U.S. adults with type 2 diabetes or hyperglycemia in NHANES, is there a difference in HbA1c level between those receiving oral dual therapy (metformin plus sulfonylurea) and those receiving monotherapy? | 177 dual therapy | 561 monotherapy | HbA1c (in %) or a binary cut of it
+Comparative Effectiveness of Oral Monotherapy Versus Dual Therapy on HbA1c Levels Among Adults With Type 2 Diabetes | Among U.S. adults with type 2 diabetes or hyperglycemia in NHANES, is there a difference in HbA1c level between those receiving oral dual therapy (metformin plus sulfonylurea) and those receiving monotherapy? | 177 dual therapy | 561 monotherapy | HbA1c (in %) or a binary cut of it | 8
 
 Saar Anis: Title | Research Question | "Treated" | "Control" | Outcome(s) | Covariates
 :-------------------------------- | :-------------------------------------- | :------------: | :------------: | :------------------: | :-------:
