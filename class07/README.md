@@ -32,7 +32,7 @@ Class | Date | HTML | Quarto | Recording
 
 1. Hirono Keisuke, Imbens Guido W and Ridder Geert 2003 [Efficient Estimation of Average Treatment Effects Using the Estimated Propensity Score](https://www.jstor.org/stable/1555493) *Econometrica*
 
-## Sources for Next Time
+## Sources for Next Time (2026-03-19)
 
 1. Rosenbaum *Causal Inference* Chapter 7 (Natural Experiments, Discontinuities and Instruments)
 2. Whitehouse Mark 2007 [Is an Economist Qualified to Solve Puzzle of Autism?](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Whitehouse%202007%20WSJ%20Economics%20and%20Autism.pdf) *Wall Street Journal*
