@@ -20,7 +20,9 @@ Class | Date | HTML | Quarto | Recording
 4. First look comments from me on your [Project Proposals](https://github.com/THOMASELOVE/500-classes-2026/tree/main/project) should be available **by class time**.
     - We will start the process of scheduling project presentations immediately after Spring Break.
 5. [Lab 3](https://thomaselove.github.io/500-2026/lab3.html) is due to [Canvas](https://canvas.case.edu/) on Tuesday 2026-03-17 at noon.
-6. For next time (in two weeks), be sure to read Rosenbaum *Causal Inference* through Chapter 7 (Natural Experiments, Discontinuities and Instruments) as well as the other sources listed below (read Whitehouse, skim Landrum & Ayanian and skim Tanenbaum)
+6. From NOTUS.org 2026-02-02: [Federal Data is Disappearing](https://www.notus.org/trump-white-house/federal-data-is-disappearing) by Shifra Dayak and Anna Kramer.
+7. From Nature Collections 2026-02-25: [How Trump 2.0 is reshaping science](https://www.nature.com/collections/jcjhabjhgi).
+8. For next time (in two weeks), be sure to read Rosenbaum *Causal Inference* through Chapter 7 (Natural Experiments, Discontinuities and Instruments) as well as the other sources listed below (read Whitehouse, skim Landrum & Ayanian and skim Tanenbaum)
 
 ## Sources from [our Sources page](https://github.com/THOMASELOVE/500-sources)
 
