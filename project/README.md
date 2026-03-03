@@ -32,4 +32,4 @@ Cognitive Status in Prodromal vs Early Parkinson’s Disease in the PPMI Cohort 
 
 ## Projects Not Yet Submitted
 
-Fai, Feriel, Megan, Wala'a
+Megan, Wala'a
