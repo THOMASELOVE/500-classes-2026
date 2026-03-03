@@ -35,7 +35,9 @@ Saar Anis: Title | Research Question | "Treated" | "Control" | Outcome(s) | Cova
 :-------------------------------- | :-------------------------------------- | :------------: | :------------: | :------------------: | :-------:
 Cognitive Status in Prodromal vs Early Parkinson’s Disease in the PPMI Cohort | (1) Is there a difference in Montreal Cognitive Assessment (MoCA) scores between participants with Parkinson’s disease and those with prodromal Parkinson’s disease? (2) Is the proportion of mild cognitive impairment (MCI) different between Parkinson’s disease and prodromal participants? | 892 Early Parkinson's | 1333 Prodromal | MoCA (0-30 points) and MCI (binary) | 7
 
+## Coming Wednesday 2026-03-04
+
 Wala'a Alshaia: Title | Research Question | "Treated" | "Control" | Outcome(s) | Covariates
 :-------------------------------- | :-------------------------------------- | :------------: | :------------: | :------------------: | :-------:
-Coming Wednesday.
+To come.
 
