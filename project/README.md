@@ -2,6 +2,10 @@
 
 ## Submitted and Approved Proposals
 
+Fai Albuainain: Title | Research Question | "Treated" | "Control" | Outcome(s) | Covariates
+:-------------------------------- | :-------------------------------------- | :------------: | :------------: | :------------------: | :-------:
+Does High-Speed Internet Access Reduce Preventable Hospitalizations? | (1) Do counties with low broadband access have higher rates of preventable hospital stays compared to otherwise similar counties with higher broadband access? (2) Do counties with low broadband access have a higher percentage of adults reporting fair or poor health compared to otherwise similar counties with higher broadband access? | ~625 Low broadband (0-25th %ile) counties (CHR 2025) | ~1875 Higher broadband counties | (1) Preventable hospital stays rate — the rate of hospital stays for ambulatory care-sensitive conditions per 100,000 Medicare enrollees, age-adjusted (2) age-adjusted percentage of adults rating their general health as fair or poor in the Behavioral Risk Factor Surveillance System (BRFSS) | 16
+
 Jeff Lambe: Title | Research Question | "Treated" | "Control" | Outcome(s) | Covariates
 :-------------------------------- | :-------------------------------------- | :------------: | :------------: | :------------------: | :-------:
 Trans-Synaptic Degeneration Following Optic Neuritis in Multiple Sclerosis | Do people with MS who have a history of optic neuritis demonstrate greater LGN (lateral geniculate nucleus) atrophy compared to those without prior optic neuritis, indicating TSD along the visual pathway? | 314 with a history of optic neuritis | 1256 without | LGN volume (in mm^3) | 6
