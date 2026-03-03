@@ -16,8 +16,7 @@ Comparative Effectiveness of Oral Monotherapy Versus Dual Therapy on HbA1c Level
 
 Mariam Zayour: Title | Research Question | "Treated" | "Control" | Outcome(s) | Covariates
 :-------------------------------- | :-------------------------------------- | :------------: | :------------: | :------------------: | :-------:
-Alcohol Use and Its Association with Diabetes and Alzheimer’s disease Diagnosis Across Racial Groups | (1) Among adults in the GNPC V1 cohort, is documented alcohol use associated with higher odds of diabetes diagnosis compared to non-use? (2) Among adults in the GNPC V1 cohort, is documented alcohol use associated with higher
-odds of Alzheimer’s disease diagnosis compared to non-use? | ~500 EHR-Documented Alcohol Users | ~1500 EHR-documented Non-Users | diabetes diagnosis, and Alzheimer's diagnosis | 7
+Alcohol Use and Its Association with Diabetes and Alzheimer’s disease Diagnosis Across Racial Groups | (1) Among adults in the GNPC V1 cohort, is documented alcohol use associated with higher odds of diabetes diagnosis compared to non-use? (2) Among adults in the GNPC V1 cohort, is documented alcohol use associated with higher odds of Alzheimer’s disease diagnosis compared to non-use? | ~500 EHR-Documented Alcohol Users | ~1500 EHR-documented Non-Users | diabetes diagnosis, and Alzheimer's diagnosis | 7
 
 Saar Anis: Title | Research Question | "Treated" | "Control" | Outcome(s) | Covariates
 :-------------------------------- | :-------------------------------------- | :------------: | :------------: | :------------------: | :-------:
