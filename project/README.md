@@ -14,10 +14,15 @@ Lily Zhang: Title | Research Question | "Treated" | "Control" | Outcome(s) | Cov
 :-------------------------------- | :-------------------------------------- | :------------: | :------------: | :------------------: | :-------:
 Comparative Effectiveness of Oral Monotherapy Versus Dual Therapy on HbA1c Levels Among Adults With Type 2 Diabetes | Among U.S. adults with type 2 diabetes or hyperglycemia in NHANES, is there a difference in HbA1c level between those receiving oral dual therapy (metformin plus sulfonylurea) and those receiving monotherapy? | 177 dual therapy | 561 monotherapy | HbA1c (in %) or a binary cut of it | 8
 
+Mariam Zayour: Title | Research Question | "Treated" | "Control" | Outcome(s) | Covariates
+:-------------------------------- | :-------------------------------------- | :------------: | :------------: | :------------------: | :-------:
+Alcohol Use and Its Association with Diabetes and Alzheimer’s disease Diagnosis Across Racial Groups | (1) Among adults in the GNPC V1 cohort, is documented alcohol use associated with higher odds of diabetes diagnosis compared to non-use? (2) Among adults in the GNPC V1 cohort, is documented alcohol use associated with higher
+odds of Alzheimer’s disease diagnosis compared to non-use? | ~500 EHR-Documented Alcohol Users | ~1500 EHR-documented Non-Users | diabetes diagnosis, and Alzheimer's diagnosis | 7
+
 Saar Anis: Title | Research Question | "Treated" | "Control" | Outcome(s) | Covariates
 :-------------------------------- | :-------------------------------------- | :------------: | :------------: | :------------------: | :-------:
 Cognitive Status in Prodromal vs Early Parkinson’s Disease in the PPMI Cohort | (1) Is there a difference in Montreal Cognitive Assessment (MoCA) scores between participants with Parkinson’s disease and those with prodromal Parkinson’s disease? (2) Is the proportion of mild cognitive impairment (MCI) different between Parkinson’s disease and prodromal participants? | 892 Early Parkinson's | 1333 Prodromal | MoCA (0-30 points) and MCI (binary) | 7
 
 ## Projects Not Yet Submitted
 
-Fai, Feriel, Mariam, Megan, Wala'a
+Fai, Feriel, Megan, Wala'a
