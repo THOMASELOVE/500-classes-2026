@@ -26,10 +26,9 @@ Mariam Zayour: Title | Research Question | "Treated" | "Control" | Outcome(s) | 
 :-------------------------------- | :-------------------------------------- | :------------: | :------------: | :------------------: | :-------:
 Alcohol Use and Its Association with Diabetes and Alzheimer’s disease Diagnosis Across Racial Groups | (1) Among adults in the GNPC V1 cohort, is documented alcohol use associated with higher odds of diabetes diagnosis compared to non-use? (2) Among adults in the GNPC V1 cohort, is documented alcohol use associated with higher odds of Alzheimer’s disease diagnosis compared to non-use? | ~500 EHR-Documented Alcohol Users | ~1500 EHR-documented Non-Users | diabetes diagnosis, and Alzheimer's diagnosis | 7
 
-Mariam Zayour: Title | Research Question | "Treated" | "Control" | Outcome(s) | Covariates
+Megan Zelinsky: Title | Research Question | "Treated" | "Control" | Outcome(s) | Covariates
 :-------------------------------- | :-------------------------------------- | :------------: | :------------: | :------------------: | :-------:
-High-Intensity Focused Ultrasound and Mortality in 631 Patients with Tremor | Are there differences in mortality rates among adults with tremor who underwent high-intensity
-focused ultrasound (HIFU) as compared to deep brain stimulation (DBS) seen at Cleveland Clinic between June 2018 and December 2025? | 133 HIFU | 498 DBS | all-cause mortality (binary) | 16
+High-Intensity Focused Ultrasound and Mortality in 631 Patients with Tremor | Are there differences in mortality rates among adults with tremor who underwent high-intensity focused ultrasound (HIFU) as compared to deep brain stimulation (DBS) seen at Cleveland Clinic between June 2018 and December 2025? | 133 HIFU | 498 DBS | all-cause mortality (binary) | 16
 
 Saar Anis: Title | Research Question | "Treated" | "Control" | Outcome(s) | Covariates
 :-------------------------------- | :-------------------------------------- | :------------: | :------------: | :------------------: | :-------:
