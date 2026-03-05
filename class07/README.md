@@ -15,13 +15,14 @@ Class | Date | HTML | Quarto | Recording
 ## Announcements
 
 1. Remember that we don't have class next week, thanks to CWRU Spring Break. Our next class (Class 8) will be held on 2026-03-19.
-2. A key item we'll be using today is [this tool from Paul Rosenbaum](https://rosenbap.shinyapps.io/learnsenShiny/), about sensitivity analysis.
-3. Don't forget about the **schedule for OSIA sessions**. Those sessions begin on 2026-03-26.
-4. First look comments from me on your [Project Proposals](https://github.com/THOMASELOVE/500-classes-2026/tree/main/project) should be available **by class time**.
+2. [Lab 3](https://thomaselove.github.io/500-2026/lab3.html) is due to [Canvas](https://canvas.case.edu/) on Tuesday 2026-03-17 at noon.
+3. From NOTUS.org 2026-02-02: [Federal Data is Disappearing](https://www.notus.org/trump-white-house/federal-data-is-disappearing) by Shifra Dayak and Anna Kramer.
+4. From Nature Collections 2026-02-25: [How Trump 2.0 is reshaping science](https://www.nature.com/collections/jcjhabjhgi).
+5. Summaries of your [Project Proposals](https://github.com/THOMASELOVE/500-classes-2026/tree/main/project) are posted.
+    - Our Shared Drive includes all nine proposals, including Saar's video discussion of his proposal.
     - We will start the process of scheduling project presentations immediately after Spring Break.
-5. [Lab 3](https://thomaselove.github.io/500-2026/lab3.html) is due to [Canvas](https://canvas.case.edu/) on Tuesday 2026-03-17 at noon.
-6. From NOTUS.org 2026-02-02: [Federal Data is Disappearing](https://www.notus.org/trump-white-house/federal-data-is-disappearing) by Shifra Dayak and Anna Kramer.
-7. From Nature Collections 2026-02-25: [How Trump 2.0 is reshaping science](https://www.nature.com/collections/jcjhabjhgi).
+6. A key item we'll be using today is [this tool from Paul Rosenbaum](https://rosenbap.shinyapps.io/learnsenShiny/), about sensitivity analysis.
+7. Don't forget about the [schedule for OSIA sessions](https://github.com/THOMASELOVE/500-classes-2026/tree/main/osia). Those sessions begin on 2026-03-26.
 8. For next time (in two weeks), be sure to read Rosenbaum *Causal Inference* through Chapter 7 (Natural Experiments, Discontinuities and Instruments) as well as the other sources listed below (read Whitehouse, skim Landrum & Ayanian and skim Tanenbaum)
 
 ## Sources from [our Sources page](https://github.com/THOMASELOVE/500-sources)
