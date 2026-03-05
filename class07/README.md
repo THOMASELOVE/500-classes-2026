@@ -15,7 +15,7 @@ Class | Date | HTML | Quarto | Recording
 ## Announcements
 
 1. Remember that we don't have class next week, thanks to CWRU Spring Break. Our next class (Class 8) will be held on 2026-03-19.
-2. [Lab 3](https://thomaselove.github.io/500-2026/lab3.html) is due to [Canvas](https://canvas.case.edu/) on Tuesday 2026-03-17 at noon.
+2. [Lab 3](https://thomaselove.github.io/500-2026/lab3.html) is due to [Canvas](https://canvas.case.edu/) on Tuesday 2026-03-17 at noon. It involves working through a series of propensity score weighting strategies for the data from Lab 2. Please feel encouraged to use the results from the Lab 2 sketch as a starting point.
 3. From NOTUS.org 2026-02-02: [Federal Data is Disappearing](https://www.notus.org/trump-white-house/federal-data-is-disappearing) by Shifra Dayak and Anna Kramer.
 4. From Nature Collections 2026-02-25: [How Trump 2.0 is reshaping science](https://www.nature.com/collections/jcjhabjhgi).
 5. Summaries of your [Project Proposals](https://github.com/THOMASELOVE/500-classes-2026/tree/main/project) are posted.
