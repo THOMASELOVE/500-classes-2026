@@ -15,7 +15,7 @@ Class | Date | HTML | Quarto | Recording
 ## Announcements
 
 1. By the end of class, I'd like you to complete this [Project Scheduling form](https://bit.ly/500-2026-project-scheduling) which should only take a moment to do.
-2. Some comments on Chapter 7 of Rosenbaum *Causal Inference* will be found in today's slides.
+2. Some comments on Chapter 7 of Rosenbaum *Causal Inference* (Natural Experiments, Discontinuities and Instruments) will be found in today's slides.
 3. The Lab 3 sketch will be posted to our Shared Drive **by class time**.
 4. [Lab 4](https://thomaselove.github.io/500-2026/lab4.html) is due to Canvas at noon on Tuesday 2026-03-24.
 5. Our first set of OSIA presentations will be held next time (Class 9: 2026-03-26) - be sure to review the abstracts in advance, and see below for details.
@@ -44,7 +44,8 @@ Class | Date | HTML | Quarto | Recording
 ## Sources for Next Time include...
 
 1. Hansen Ben B 2004 [Full Matching in an Observational Study of Coaching for the SAT](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Hansen%202004%20JASA%20Full%20Matching%20in%20SAT%20Coaching.pdf) *Journal of the American Statistical Association*
-2. Our [first set of OSIA articles](https://github.com/THOMASELOVE/500-classes-2026/tree/main/osia).
+2. Rosenbaum Chapter 8 (Replication, Resolution and Evidence Factors)
+3. Our [first set of OSIA articles](https://github.com/THOMASELOVE/500-classes-2026/tree/main/osia).
 
 ## OSIA presentations for Class 9: 2026-03-26
 
