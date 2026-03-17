@@ -16,7 +16,7 @@ Class | Date | HTML | Quarto | Recording
 
 1. Some comments on Chapter 8 of Rosenbaum *Causal Inference* will be found in today's slides.
 2. Our second set of OSIA presentations will be held next time (Class 10: 2026-03-26) - be sure to review the abstracts in advance, and see below for details.
-3. Please read Rosenbaum *Causal Inference* Chapter 9 (Replication, Resolution and Evidence Factors) before our next class, and skim [Elbadawi 2021](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Elbadawi%202021.pdf).
+3. Please read Rosenbaum *Causal Inference* Chapter 9 (Uncertainty and Complexity) before our next class, and skim [Elbadawi 2021](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Elbadawi%202021.pdf).
 
 
 ## Today's OSIA presentations: 2026-03-26
