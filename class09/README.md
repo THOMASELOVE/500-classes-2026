@@ -33,6 +33,10 @@ Jeff Lambe | Kathryn Menta | Barbuti et al. 2025 *Neuropathics* 22, e00537. <br/
 
 -----------
 
+## Sources for Next Time include...
+
+1. Elbadawi A et al. 2021 [Contemporary Revascularization Strategies and Outcomes Among Patients With Diabetes With Critical Limb Ischemia: Insights from the National Inpatient Sample](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Elbadawi%202021.pdf), with [Supplement](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Elbadawi%202021_supplement.pdf) *J Am Coll Cardiol Intv* 14: 664-74. 
+
 ## Next Time: OSIA presentations for Class 10: 2026-04-02
 
 - Fai, Megan, Mariam, and Lily: Submit final versions of the slides for your class presentation (18 slides should be a reasonable maximum) to our Shared Google Drive by Noon on the day before your presentation, so **Wednesday 2026-04-01**. The file name should include your name.
