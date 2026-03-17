@@ -33,12 +33,14 @@ Jeff Lambe | Kathryn Menta | Barbuti et al. 2025 *Neuropathics* 22, e00537. <br/
 ## Material for Today's Slides
 
 1. Hansen Ben B 2004 [Full Matching in an Observational Study of Coaching for the SAT](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Hansen%202004%20JASA%20Full%20Matching%20in%20SAT%20Coaching.pdf) *Journal of the American Statistical Association*
+2. Rosenbaum Chapter 8 (Replication, Resolution and Evidence Factors)
 
 -----------
 
 ## Sources for Next Time include...
 
-1. Elbadawi A et al. 2021 [Contemporary Revascularization Strategies and Outcomes Among Patients With Diabetes With Critical Limb Ischemia: Insights from the National Inpatient Sample](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Elbadawi%202021.pdf), with [Supplement](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Elbadawi%202021_supplement.pdf) *J Am Coll Cardiol Intv* 14: 664-74. 
+1. Elbadawi A et al. 2021 [Contemporary Revascularization Strategies and Outcomes Among Patients With Diabetes With Critical Limb Ischemia: Insights from the National Inpatient Sample](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Elbadawi%202021.pdf), with [Supplement](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Elbadawi%202021_supplement.pdf) *J Am Coll Cardiol Intv* 14: 664-74.
+2. Rosenbaum Chapter 9 (Uncertainty and Complexity in Causal Inference)
 
 ## Next Time: OSIA presentations for Class 10: 2026-04-02
 
