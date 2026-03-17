@@ -14,7 +14,7 @@ Class | Date | HTML | Quarto | Recording
 
 ## Announcements
 
-1. By the end of class, I'd like to see you complete this [Project Scheduling form](https://bit.ly/500-2026-project-scheduling) which should only take a moment to do.
+1. By the end of class, I'd like you to complete this [Project Scheduling form](https://bit.ly/500-2026-project-scheduling) which should only take a moment to do.
 2. Some comments on Chapter 7 of Rosenbaum *Causal Inference* will be found in today's slides.
 3. Our first set of OSIA presentations will be held next time (Class 9: 2026-03-26) - be sure to review the abstracts in advance, and see below for details.
 4. Please read Rosenbaum *Causal Inference* Chapter 8 (Replication, Resolution and Evidence Factors) before our next class, and skim Hansen 2004.
