@@ -15,3 +15,9 @@ Class | Date | HTML | Quarto | Recording
 ## Announcements
 
 To come.
+
+## Today's OSIA presentation
+
+Start | First Reader | Second Reader | Article 
+:---: | :------------: | :-------------: | :-----------------------------------------------------------------------------------------------
+9:05 AM | Saar Anis | Feriel Presswalla | Siddeeque et al. 2024 *International Immunopharmacology* 143: 113537. <br/> [Neuroprotective effects of GLP-1 receptor agonists](https://github.com/THOMASELOVE/500-classes-2026/blob/main/osia/articles/Siddeeque2024_main.pdf) <br/> [in neurodegenerative disorders:](articles/Siddeeque2024_main.pdf) <br/> [A Large-Scale Propensity-Matched cohort study](https://github.com/THOMASELOVE/500-classes-2026/blob/main/osia/articles/Siddeeque2024_main.pdf) <br/> **Supplement** (1 PDF) found on our Shared Drive.
