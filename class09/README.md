@@ -27,6 +27,10 @@ Feriel Presswalla | Mariam Zayour | Huang YN et al. 2024 *Diabetes Obes Metab* 2
 Wala'a Alshaia | Lily Zhang | Wang et al. 2024 *JAMA Network Open* 7(7): e2421305. <br/> [Glucagon-Like Peptide 1 Receptor Agonists and 13 Obesity-Associated](https://github.com/THOMASELOVE/500-classes-2026/blob/main/osia/articles/Wang2024_main.pdf) <br/> [Cancers in Patients With Type 2 Diabetes](https://github.com/THOMASELOVE/500-classes-2026/blob/main/osia/articles/Wang2024_main.pdf) <br/> **Supplement** (1 PDF) found on our Shared Drive.
 Jeff Lambe | Kathryn Menta | Barbuti et al. 2025 *Neuropathics* 22, e00537. <br/> [Comparative effectiveness, safety and persistence of ocrelizumab](https://github.com/THOMASELOVE/500-classes-2026/blob/main/osia/articles/Barbuti2025_main.pdf) <br/> [versus natalizumab in multiple sclerosis:](https://github.com/THOMASELOVE/500-classes-2026/blob/main/osia/articles/Barbuti2025_main.pdf) <br/> [A real-world, multi-center, propensity score-matched study](https://github.com/THOMASELOVE/500-classes-2026/blob/main/osia/articles/Barbuti2025_main.pdf) <br/> No supplements.
 
+## Material for Today's Slides
+
+1. Hansen Ben B 2004 [Full Matching in an Observational Study of Coaching for the SAT](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Hansen%202004%20JASA%20Full%20Matching%20in%20SAT%20Coaching.pdf) *Journal of the American Statistical Association*
+
 -----------
 
 ## Next Time: OSIA presentations for Class 10: 2026-04-02
