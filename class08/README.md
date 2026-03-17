@@ -16,7 +16,7 @@ Class | Date | HTML | Quarto | Recording
 
 1. By the end of class, I'd like to see you complete this [Project Scheduling form](https://bit.ly/500-2026-project-scheduling) which should only take a moment to do.
 2. Some comments on Chapter 7 of Rosenbaum *Causal Inference* will be found in today's slides.
-3. Our first set of OSIA presentations will be held next time (Class 9: 2026-03-26) - be sure to review the abstracts in advance.
+3. Our first set of OSIA presentations will be held next time (Class 9: 2026-03-26) - be sure to review the abstracts in advance, and see below for details.
 4. Please read Rosenbaum *Causal Inference* Chapter 8 (Replication, Resolution and Evidence Factors) before our next class, and skim Hansen 2004.
 
 ----
@@ -43,4 +43,18 @@ Class | Date | HTML | Quarto | Recording
 
 1. Hansen Ben B 2004 [Full Matching in an Observational Study of Coaching for the SAT](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Hansen%202004%20JASA%20Full%20Matching%20in%20SAT%20Coaching.pdf) *Journal of the American Statistical Association*
 2. Our [first set of OSIA articles](https://github.com/THOMASELOVE/500-classes-2026/tree/main/osia).
+
+## OSIA presentations for Class 9: 2026-03-26
+
+- Kathryn, Feriel, Wala'a, and Jeff: Submit final versions of the slides for your class presentation (18 slides should be a reasonable maximum) to our Shared Google Drive by Noon on the day before your presentation, so **Wednesday 2026-03-25**. The file name should include your name.
+- Megan, Mariam, Lily, and Kathryn: Submit final versions of your 2-4 slides for your presentation to our Shared Google Drive by 7:30 AM on the day of your presentation, so **Thursday 2026-03-26**. Be sure the file name includes your name. We expect you to have reviewed the slides prepared by the First Reader (posted the day before) in preparing your materials.
+- Everyone: You can read the abstracts for all selections [at this link](https://github.com/THOMASELOVE/500-classes-2026/blob/main/osia/abstracts/README.md).
+
+First Reader | Second Reader | Article 
+:------------: | :-------------: | :-----------------------------------------------------------------------------------------------
+Kathryn Menta | Megan Zelinsky | Tran et al. 2026 *JAMA Network Open* 9(1): e2553157. <br/> [Role of Chronic Conditions in Out-of-Pocket Costs for](https://github.com/THOMASELOVE/500-classes-2026/edit/main/osia/articles/Tran2026_main.pdf) <br/> [Preventive Care in the US](https://github.com/THOMASELOVE/500-classes-2026/edit/main/osia/articles/Tran2026_main.pdf) <br/> **Supplements** (1 PDF, 1 Excel) found on our Shared Drive.
+Feriel Presswalla | Mariam Zayour | Huang YN et al. 2024 *Diabetes Obes Metab* 26: 5222-5232. <br/> [Long-term safety and efficacy of glucagon-like peptide-1 receptor](https://github.com/THOMASELOVE/500-classes-2026/edit/main/osia/articles/HuangYN2024_main.pdf) <br/>  [agonists in individuals with obesity and without type 2 diabetes:](https://github.com/THOMASELOVE/500-classes-2026/edit/main/osia/articles/HuangYN2024_main.pdf) <br/> [A global retrospective cohort study](https://github.com/THOMASELOVE/500-classes-2026/edit/main/osia/articles/HuangYN2024_main.pdf) <br/> **Supplement** (1 PDF) found on our Shared Drive.
+Wala'a Alshaia | Lily Zhang | Wang et al. 2024 *JAMA Network Open* 7(7): e2421305. <br/> [Glucagon-Like Peptide 1 Receptor Agonists and 13 Obesity-Associated](https://github.com/THOMASELOVE/500-classes-2026/edit/main/osia/articles/Wang2024_main.pdf) <br/> [Cancers in Patients With Type 2 Diabetes](https://github.com/THOMASELOVE/500-classes-2026/edit/main/osia/articles/Wang2024_main.pdf) <br/> **Supplement** (1 PDF) found on our Shared Drive.
+Jeff Lambe | Kathryn Menta | Barbuti et al. 2025 *Neuropathics* 22, e00537. <br/> [Comparative effectiveness, safety and persistence of ocrelizumab](https://github.com/THOMASELOVE/500-classes-2026/edit/main/osia/articles/Barbuti2025_main.pdf) <br/> [versus natalizumab in multiple sclerosis:](https://github.com/THOMASELOVE/500-classes-2026/edit/main/osia/articles/Barbuti2025_main.pdf) <br/> [A real-world, multi-center, propensity score-matched study](https://github.com/THOMASELOVE/500-classes-2026/edit/main/osia/articles/Barbuti2025_main.pdf) <br/> No supplements.
+
 
