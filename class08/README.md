@@ -41,6 +41,8 @@ Class | Date | HTML | Quarto | Recording
 4. Earle et al 2001 [Effectiveness of Chemotherapy for Advanced Lung Cancer in the Elderly: Instrumental Variable and Propensity Analysis](https://ascopubs.org/doi/abs/10.1200/JCO.2001.19.4.1064) *Journal of Clinical Oncology*
 5. Coyte et al. 2000 [Costs and outcomes associated with alternative discharge strategies following joint replacement surgery: analysis of an observational study using a propensity score](https://pubmed.ncbi.nlm.nih.gov/11186851/) *Journal of Health Economics*
 
+---
+
 ## Sources for Next Time include...
 
 1. Hansen Ben B 2004 [Full Matching in an Observational Study of Coaching for the SAT](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Hansen%202004%20JASA%20Full%20Matching%20in%20SAT%20Coaching.pdf) *Journal of the American Statistical Association*
