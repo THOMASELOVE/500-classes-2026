@@ -20,7 +20,7 @@ Class | Date | HTML | Quarto | Recording
 
 ## Today's OSIA presentations: 2026-04-02
 
-- An evaluation form will be available to you **by class time**.
+- The feedback form for today's presentations (2026-04-02) is found at <https://bit.ly/2026-04-02-500-OSIA-feedback>. Please complete the form by the end of today's class.
 
 Start | First Reader | Second Reader | Article 
 :---: | :------------: | :-------------: | :-----------------------------------------------------------------------------------------------
