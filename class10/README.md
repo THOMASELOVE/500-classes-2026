@@ -37,9 +37,9 @@ Start | First Reader | Second Reader | Article
 
 ## Next Time: OSIA presentation for Class 11: 2026-04-09
 
-- Saar: Submit final version of the slides for your class presentation (18 slides should be a reasonable maximum) to the **2026-04-09 OSIA Presentation Slides** folder in our Shared Google Drive by Noon on **Wednesday 2026-04-08**. The file name should include your name.
-- Feriel: Submit final version of your 2-4 slides for your presentation to the **2026-04-09 OSIA Presentation Slides** folder in our Shared Google Drive by 7:30 AM on **Thursday 2026-04-09**. Be sure the file name includes your name. We expect you to have reviewed the slides prepared by the First Reader (posted the day before) in preparing your materials.
-- Everyone: You can read the abstracts for all selections [at this link](https://github.com/THOMASELOVE/500-classes-2026/blob/main/osia/abstracts/README.md).
+- **Saar**: Submit final version of the slides for your class presentation (18 slides should be a reasonable maximum) to the **2026-04-09 OSIA Presentation Slides** folder in our Shared Google Drive by Noon on **Wednesday 2026-04-08**. The file name should include your name.
+- **Feriel**: Submit final version of your 2-4 slides for your presentation to the **2026-04-09 OSIA Presentation Slides** folder in our Shared Google Drive by 7:30 AM on **Thursday 2026-04-09**. Be sure the file name includes your name. We expect you to have reviewed the slides prepared by the First Reader (posted the day before) in preparing your materials.
+- **Everyone**: You can read the abstracts for all selections [at this link](https://github.com/THOMASELOVE/500-classes-2026/blob/main/osia/abstracts/README.md).
 
 Start | First Reader | Second Reader | Article 
 :---: | :------------: | :-------------: | :-----------------------------------------------------------------------------------------------
