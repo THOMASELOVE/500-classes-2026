@@ -14,7 +14,7 @@ Class | Date | HTML | Quarto | Recording
 
 ## Announcements
 
-1. Announcements to come.
+1. [Here is the project schedule](https://github.com/THOMASELOVE/500-classes-2026/tree/main/project) for 500 this Spring.
 2. For next time, please skim [Lehr (2019)](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Lehr_2019_extra.pdf) and [Posner (2001)](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Posner%20et%20al%202001%20Comparing%20Methods%20in%20a%20Mammography%20Study.pdf). We also will have one additional OSIA presentation.
 
 ## Today's OSIA presentations: 2026-04-02
