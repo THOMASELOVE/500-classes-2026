@@ -15,9 +15,9 @@ Class | Date | HTML | Quarto | Recording
 ## Announcements
 
 1. [Here is the project schedule](https://github.com/THOMASELOVE/500-classes-2026/tree/main/project) for 500 this Spring.
-2. More to come.
+2. Classes 12 and 13 (2026-04-16 and 2026-04-23) will neither be recorded nor broadcast using Zoom.
+3. More to come.
  
-
 ## Today's OSIA presentation
 
 Start | First Reader | Second Reader | Article 
