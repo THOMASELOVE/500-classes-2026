@@ -20,6 +20,6 @@ Start Time | Stop Time | Investigator | Project Title
 ## Announcements
 
 1. Project Presentations next week are by Saar, Wala'a, Megan and Kathryn. Please do not forget to submit your [pre-presentation version of your **Abstract**, and of your **Slides**](https://thomaselove.github.io/500-2026/proj500.html#overview-1) to the **2026-04-23 Project Presentation Materials** folder in our Google Drive by **NOON on Wednesday 2026-04-22**.
-2. Final Project materials for everyone are due to Canvas at NOON on **2026-04-28**.
+2. [Final Project materials](https://thomaselove.github.io/500-2026/proj500.html#the-final-set-of-deliverables) (Abstract, Slides, Data Set, Quarto and HTML) for everyone are due to Canvas at NOON on **2026-04-28**.
 
 
