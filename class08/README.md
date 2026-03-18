@@ -35,7 +35,7 @@ Class | Date | HTML | Quarto | Recording
 
 ### Not posted to our Sources page
 
-1. Levitt and Dubner *Freakonomics* ([Wikipedia](https://en.wikipedia.org/wiki/Freakonomics), [Amazon](https://www.amazon.com/Freakonomics-Economist-Explores-Hidden-Everything/dp/0060731338) and [follow-up books](https://www.amazon.com/dp/B074CB84JK?binding=kindle_edition&qid=1770085005&sr=8-1&ref=dbs_dp_rwt_sb_pc_tkin).
+1. Levitt and Dubner *Freakonomics* ([Wikipedia](https://en.wikipedia.org/wiki/Freakonomics), [Amazon](https://www.amazon.com/Freakonomics-Economist-Explores-Hidden-Everything/dp/0060731338) and [follow-up books](https://www.amazon.com/dp/B074CB84JK?binding=kindle_edition&qid=1770085005&sr=8-1&ref=dbs_dp_rwt_sb_pc_tkin).)
 2. Bobbitt Z [Instrumental Variables: Definition & Examples](https://www.statology.org/instrumental-variables/) at Statology.org
 3. Angrist Imbens and Rubin 1996 [Identification of Causal Effects Using Instrumental Variables](https://www.tandfonline.com/doi/abs/10.1080/01621459.1996.10476902) *Journal of the American Statistical Association*
 4. Earle et al 2001 [Effectiveness of Chemotherapy for Advanced Lung Cancer in the Elderly: Instrumental Variable and Propensity Analysis](https://ascopubs.org/doi/abs/10.1200/JCO.2001.19.4.1064) *Journal of Clinical Oncology*
