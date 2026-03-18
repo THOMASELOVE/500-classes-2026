@@ -25,4 +25,17 @@ Start | First Reader | Second Reader | Article
 :---: | :------------: | :-------------: | :-----------------------------------------------------------------------------------------------
 9:05 AM | Saar Anis | Feriel Presswalla | Siddeeque et al. 2024 *International Immunopharmacology* 143: 113537. <br/> [Neuroprotective effects of GLP-1 receptor agonists](https://github.com/THOMASELOVE/500-classes-2026/blob/main/osia/articles/Siddeeque2024_main.pdf) <br/> [in neurodegenerative disorders:](articles/Siddeeque2024_main.pdf) <br/> [A Large-Scale Propensity-Matched cohort study](https://github.com/THOMASELOVE/500-classes-2026/blob/main/osia/articles/Siddeeque2024_main.pdf) <br/> **Supplement** (1 PDF) found on our Shared Drive.
 
+## Sources from Today's Slides
+
+1. Lehr Carli J et al. 2019 [The impact of change in definition of increased-risk donors on survival after lung transplant](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Lehr_2019_extra.pdf) *J Thorac Cardiovac Surg*
+2. Posner Micheal A. et al 2001 [Comparing Standard Regression, Propensity Score Matching and Instrumental Variables Methods for Determining the Influence of Mammography on Stage of Diagnosis](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Posner%20et%20al%202001%20Comparing%20Methods%20in%20a%20Mammography%20Study.pdf) *Health Services & Outcomes Research Methodology*
+
+## Additional Sources which may be of interest
+
+- Lu B et al. 2002 [Matching With Doses in an Observational Study of a Media Campaign Against Drug Abuse](https://pubmed.ncbi.nlm.nih.gov/25525284/)
+- Lu B 2005 [Propensity score matching with time-dependent covariates](https://pubmed.ncbi.nlm.nih.gov/16135023/)
+- Seeger JD et al. 2007 [Use of propensity score technique to account for exposure-related covariates: an example and lesson](https://pubmed.ncbi.nlm.nih.gov/17909373/)
+- Silber et al. 2001 [Multivariate matching and bias reduction in the surgical outcomes study](https://pubmed.ncbi.nlm.nih.gov/11567168/)
+- Silber JH et al. 2009 [Time to Send the Preemie Home? Additional Maturity at Discharge and Subsequent Health Care Costs and Outcomes](https://pmc.ncbi.nlm.nih.gov/articles/PMC2677048/)
+
 
