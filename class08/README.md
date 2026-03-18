@@ -14,7 +14,7 @@ Class | Date | HTML | Quarto | Recording
 
 ## Announcements
 
-1. [Here is the project schedule](https://github.com/THOMASELOVE/500-classes-2026/tree/main/project) for 500 this Spring.
+1. [Here is the project schedule](https://github.com/THOMASELOVE/500-classes-2026/tree/main/project) for 500 this Spring. Let me know if your title changes.
 2. Some comments on Chapter 7 of Rosenbaum *Causal Inference* (Natural Experiments, Discontinuities and Instruments) will be found in today's slides.
 3. The Lab 3 sketch is now available on our Shared Drive.
 4. [Lab 4](https://thomaselove.github.io/500-2026/lab4.html) is due to Canvas at noon on Tuesday 2026-03-24.
