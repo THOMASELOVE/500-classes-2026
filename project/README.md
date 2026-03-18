@@ -1,4 +1,25 @@
-# 500 Project Status
+# 500 Project Schedule and Status
+
+### Thursday 2026-04-16 (Class 12)
+
+Start Time | Stop Time | Investigator | Project Title
+:----------: | :----------: | :---------------------: | :------------------------------------------------------------------------------ 
+9:00 AM | 9:23 AM | Fai Albuainain | Does High-Speed Internet Access Reduce Preventable Hospitalizations?
+9:25 AM | 9:48 AM | Feriel Presswalla | Ambient air pollution and post-transplant outcomes among heart transplant recipients
+9:50 AM | 10:13 AM | Lily Zhang | Comparative Effectiveness of Oral Monotherapy Versus Dual Therapy on HbA1c Levels Among Adults With Type 2 Diabetes
+10:14 AM | 10:24 AM | Break
+10:25 AM | 10:48 AM | Mariam Zayour | Alcohol Use and Its Association with Diabetes and Alzheimer’s disease Diagnosis Across Racial Groups
+10:50 AM | 11:15 AM | Jeff Lambe | Trans-Synaptic Degeneration Following Optic Neuritis in Multiple Sclerosis
+
+### Thursday 2026-04-23 (Class 13)
+
+Start Time | Stop Time | Investigator | Project Title
+:----------: | :----------: | :---------------------: | :------------------------------------------------------------------------------ 
+9:00 AM | 9:23 AM | Saar Anis | Cognitive Status in Prodromal vs Early Parkinson’s Disease in the PPMI Cohort
+9:25 AM | 9:48 AM | Wala'a Alshaia | Cervical Cancer Screening and Depression in Women ages 25-65
+9:50 AM | 10:13 AM | Megan Zelinsky | High-Intensity Focused Ultrasound and Mortality in 631 Patients with Tremor
+10:14 AM | 10:24 AM | Break
+10:25 AM | 10:48 AM | Kathryn Menta | Lighting Up, Breathing Less? Smoking and Asthma in Teens
 
 ## Submitted and Approved Proposals
 
