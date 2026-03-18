@@ -14,10 +14,19 @@ Class | Date | HTML | Quarto | Recording
 
 ## Announcements
 
-To come.
+1. [Here is the project schedule](https://github.com/THOMASELOVE/500-classes-2026/tree/main/project) for 500 this Spring.
+2. More to come.
+ 
 
 ## Today's OSIA presentation
 
 Start | First Reader | Second Reader | Article 
 :---: | :------------: | :-------------: | :-----------------------------------------------------------------------------------------------
 9:05 AM | Saar Anis | Feriel Presswalla | Siddeeque et al. 2024 *International Immunopharmacology* 143: 113537. <br/> [Neuroprotective effects of GLP-1 receptor agonists](https://github.com/THOMASELOVE/500-classes-2026/blob/main/osia/articles/Siddeeque2024_main.pdf) <br/> [in neurodegenerative disorders:](articles/Siddeeque2024_main.pdf) <br/> [A Large-Scale Propensity-Matched cohort study](https://github.com/THOMASELOVE/500-classes-2026/blob/main/osia/articles/Siddeeque2024_main.pdf) <br/> **Supplement** (1 PDF) found on our Shared Drive.
+
+## Project Presentations next week are by Fai, Feriel, Lily, Mariam and Jeff
+
+Please do not forget to submit your pre-presentation version of your **Abstract**, and of your **Slides** to the 2026-04-16 Project Presentation Materials folder in our Google Drive by **NOON on Wednesday 2026-04-15**.
+
+
+
