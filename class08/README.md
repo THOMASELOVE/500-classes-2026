@@ -20,6 +20,7 @@ Class | Date | HTML | Quarto | Recording
 4. [Lab 4](https://thomaselove.github.io/500-2026/lab4.html) is due to Canvas at noon on Tuesday 2026-03-24.
 5. Our first set of OSIA presentations will be held next time (Class 9: 2026-03-26) - be sure to review the abstracts in advance, and see below for details.
 6. Please read Rosenbaum *Causal Inference* Chapter 8 (Replication, Resolution and Evidence Factors) before our next class, and skim [Hansen 2004](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Hansen%202004%20JASA%20Full%20Matching%20in%20SAT%20Coaching.pdf).
+7. I'll spend a few moments talking about [this advice on managing your data](https://thomaselove.github.io/432-2026/projB.html#new-how-to-cleanmanagewrangle-your-data). While not everything there applies to your projects, I think it might be helpful.
 
 ----
 
