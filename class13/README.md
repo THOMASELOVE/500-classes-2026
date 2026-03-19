@@ -26,5 +26,5 @@ Start Time | Stop Time | Investigator | Project Title
 ## Announcements
 
 1. [Final Project materials](https://thomaselove.github.io/500-2026/proj500.html#the-final-set-of-deliverables) (Abstract, Slides, Data Set, Quarto and HTML) for everyone are due to Canvas at NOON on **2026-04-28**.
-2. Please fill out the CWRU Course Evaluation by their deadline.
+2. The Course Evaluation at <https://webapps.case.edu/courseevals/> should be done anytime after you present your project, and is due when CWRU tells you it is, usually in early May. Please do fill this out. It delights me every year when we get 100% participation.
 
