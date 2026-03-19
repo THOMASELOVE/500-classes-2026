@@ -40,4 +40,34 @@ Start | First Reader | Second Reader | Article
 - Silber et al. 2001 [Multivariate matching and bias reduction in the surgical outcomes study](https://pubmed.ncbi.nlm.nih.gov/11567168/)
 - Silber JH et al. 2009 [Time to Send the Preemie Home? Additional Maturity at Discharge and Subsequent Health Care Costs and Outcomes](https://pmc.ncbi.nlm.nih.gov/articles/PMC2677048/)
 
+## Project Evaluations
 
+Here's what you'll be looking at answering for each project, other than your own...
+
+### Three little mini-essays, where I want you to write at least a couple of sentences for each (> 70 characters)
+
+1. What is the most important thing you learned from this presentation?
+2. Make your best suggestion to improve this presentation.
+3. What did you learn from this presentation that would be useful to you in your own project?
+
+### Ratings on a Strongly Agree, Somewhat Agree, Disagree scale
+
+1. The speaker motivated their choices about study design well.
+2. This presentation was informative and left me with "take away" value.
+3. This presentation was engaging and pitched at the appropriate level for this audience.
+
+## Dr. Love's Evaluations include ...
+
+1. What are your suggestions to improve this presentation?
+2. What was the best thing about this presentation?
+
+and ratings on a VERY Strongly Agree, Strongly Agree, Somewhat Agree, Disagree scale on ...
+
+1. The introduction allowed me to understand the problem sufficiently.
+2. The research question(s) were stated clearly.
+3. The speaker motivated their choices about study design well.
+4. The speaker developed reasonable solutions to analytic problems.
+5. The speaker focused on important issues in the presentation.
+6. This presentation was informative and left me with "take away" value.
+7. I believe the speaker's conclusions.
+8. This presentation was engaging and pitched at the appropriate level for this audience.
