@@ -9,7 +9,7 @@ Start Time | Stop Time | Investigator | Project Title
 9:50 AM | 10:13 AM | Lily Zhang | Comparative Effectiveness of Oral Monotherapy Versus Dual Therapy on <br/> HbA1c Levels Among Adults With Type 2 Diabetes and Hyperglycemia
 10:14 AM | 10:24 AM | Break
 10:25 AM | 10:48 AM | Mariam Zayour | Alcohol Use and Its Association with Diabetes and Alzheimer’s disease <br/> diagnosis Across Racial Groups
-10:50 AM | 11:15 AM | Jeff Lambe | Trans-Synaptic Degeneration Following Optic Neuritis in Multiple Sclerosis
+10:50 AM | 11:13 AM | Jeff Lambe | Trans-Synaptic Degeneration Following Optic Neuritis in Multiple Sclerosis
 
 ### Thursday 2026-04-23 (Class 13)
 
