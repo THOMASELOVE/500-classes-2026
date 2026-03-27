@@ -8,7 +8,7 @@ for everything | for deadlines | expectations | ways to get help | lab submissio
 
 ## Schedule of Project Presentations
 
-You will provide feedback on these projects (skip your own) using [this form] (to be posted).
+You will provide feedback on these projects (skip your own) using [this form](https://bit.ly/500-projects-2026-04-16) found at <https://bit.ly/500-projects-2026-04-16>.
 
 Start Time | Stop Time | Investigator | Project Title
 :----------: | :----------: | :---------------------: | :------------------------------------------------------------------------------ 
