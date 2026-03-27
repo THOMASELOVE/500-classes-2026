@@ -14,6 +14,8 @@ Class | Date | HTML | Quarto | Recording
 
 ## Today's Schedule
 
+You will provide feedback on these projects (skip your own) using [this form] (to be posted).
+
 Start Time | Stop Time | Investigator | Project Title
 :----------: | :----------: | :---------------------: | :------------------------------------------------------------------------------ 
 9:00 AM | 9:23 AM | Saar Anis | Cognitive Status in Prodromal vs Early Parkinson’s Disease in the PPMI Cohort
