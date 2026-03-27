@@ -8,6 +8,8 @@ for everything | for deadlines | expectations | ways to get help | lab submissio
 
 ## Schedule of Project Presentations
 
+You will provide feedback on these projects (skip your own) using [this form] (to be posted).
+
 Start Time | Stop Time | Investigator | Project Title
 :----------: | :----------: | :---------------------: | :------------------------------------------------------------------------------ 
 9:00 AM | 9:23 AM | Fai Albuainain | Does High-Speed Internet Access Reduce Preventable Hospitalizations?
