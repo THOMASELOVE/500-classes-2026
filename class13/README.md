@@ -14,7 +14,7 @@ Class | Date | HTML | Quarto | Recording
 
 ## Today's Schedule
 
-You will provide feedback on these projects (skip your own) using [this form] (to be posted).
+You will provide feedback on these projects (skip your own) using [this form](https://bit.ly/500-projects-2026-04-23) found at <https://bit.ly/500-projects-2026-04-23>.
 
 Start Time | Stop Time | Investigator | Project Title
 :----------: | :----------: | :---------------------: | :------------------------------------------------------------------------------ 
