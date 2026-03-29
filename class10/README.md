@@ -51,6 +51,8 @@ Start | First Reader | Second Reader | Article
 1. Lehr Carli J et al. 2019 [The impact of change in definition of increased-risk donors on survival after lung transplant](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Lehr_2019_extra.pdf) *J Thorac Cardiovac Surg*
 2. Posner Micheal A. et al 2001 [Comparing Standard Regression, Propensity Score Matching and Instrumental Variables Methods for Determining the Influence of Mammography on Stage of Diagnosis](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Posner%20et%20al%202001%20Comparing%20Methods%20in%20a%20Mammography%20Study.pdf) *Health Services & Outcomes Research Methodology*
 
+---
 
+![](https://imgs.xkcd.com/comics/selection_bias.png) [Source](https://xkcd.com/2618/)
 
 
