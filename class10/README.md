@@ -30,10 +30,9 @@ Third | Mariam Zayour | Fai Albuainain | Palzes et al. 2026 *Biological Psychiat
 -- | Break
 Fourth | Lily Zhang | Saar Anis | Hung SK et al. 2023 *Breast Cancer Research* 25: 149. <br/>  [Molecular subtypes of breast cancer predicting clinical benefits](https://github.com/THOMASELOVE/500-classes-2026/blob/main/osia/articles/HungSK2023_main.pdf) <br/> [of radiotherapy after breast-conserving surgery:](https://github.com/THOMASELOVE/500-classes-2026/blob/main/osia/articles/HungSK2023_main.pdf) <br/> [A propensity-score-matched cohort study](https://github.com/THOMASELOVE/500-classes-2026/blob/main/osia/articles/HungSK2023_main.pdf) <br/> No supplements.
 
-## Material for Today's Slides
+## Appendix of Today's Slides discuss Elbadawi
 
 1. Elbadawi A et al. 2021 [Contemporary Revascularization Strategies and Outcomes Among Patients With Diabetes With Critical Limb Ischemia: Insights from the National Inpatient Sample](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Elbadawi%202021.pdf), with [Supplement](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Elbadawi%202021_supplement.pdf) *J Am Coll Cardiol Intv* 14: 664-74.
-2. Rosenbaum Chapter 9 (Uncertainty and Complexity in Causal Inference)
 
 ------------------
 
@@ -50,7 +49,7 @@ Start | First Reader | Second Reader | Article
 ## Additional Material we'll discuss in Class 11
 
 1. Lehr Carli J et al. 2019 [The impact of change in definition of increased-risk donors on survival after lung transplant](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Lehr_2019_extra.pdf) *J Thorac Cardiovac Surg*
-2. Posner Micheal A. et al 2001 [Comparing Standard Regression, Propensity Score Matching and Instrumental Variables Methods for Determining the Influence of Mammography on Stage of Diagnosis](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Posner%20et%20al%202001%20Comparing%20Methods%20in%20a%20Mammography%20Study.pdf) *Health Services & Outcomes Research Methodology*
+2. Posner Michael A. et al 2001 [Comparing Standard Regression, Propensity Score Matching and Instrumental Variables Methods for Determining the Influence of Mammography on Stage of Diagnosis](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Posner%20et%20al%202001%20Comparing%20Methods%20in%20a%20Mammography%20Study.pdf) *Health Services & Outcomes Research Methodology*
 
 ---
 
