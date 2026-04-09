@@ -16,7 +16,8 @@ Class | Date | HTML | Quarto | Recording
 
 1. [Here is the project schedule](https://github.com/THOMASELOVE/500-classes-2026/tree/main/project) for 500 this Spring.  Let me know if your title has changed.
 2. Classes 12 and 13 (2026-04-16 and 2026-04-23) will neither be recorded nor broadcast using Zoom.
-3. Next week's project presentations will be by **Fai, Feriel, Lily, Mariam and Jeff**...
+3. Feedback on the OSIA talks from last week is available on our Shared Drive, and I'll post today's feedback later this afternoon.
+4. Next week's project presentations will be by **Fai, Feriel, Lily, Mariam and Jeff**...
     - Please do not forget to submit your [pre-presentation version of your **Abstract**, and of your **Slides**](https://thomaselove.github.io/500-2026/proj500.html#overview-1) to the **2026-04-16 Project Presentation Materials folder** in our Google Drive by **NOON on Wednesday 2026-04-15**.
  
 ## Today's OSIA presentation
