@@ -34,7 +34,7 @@ Start Time | Stop Time | Investigator | Project Title
 
 I am performing twice in the next couple of months on stage.
 
-1. On Saturday 2026-04-25 at 7 PM with the Chagrin Falls Studio Orchestra, in Chagrin Falls, Ohio for their "Where Liberty Dwells" concert. Tickets and more information are available at <https://cvlt.org/show-item/cfso-liberty/>. I'll be part of a group of four singers accompanying the orchestra in some patriotic favorites.
+1. This Saturday 2026-04-25 at 7 PM with the Chagrin Falls Studio Orchestra, in Chagrin Falls, Ohio for their "Where Liberty Dwells" concert. Tickets and more information are available at <https://cvlt.org/show-item/cfso-liberty/>. I'll be part of a group of four singers accompanying the orchestra in some patriotic favorites.
 2. On Saturday 2026-05-23 at 7:30 PM and Sunday 2026-05-24 at 2 PM I will be onstage with the Happy Ending Lyric Players, in Shaker Heights, Ohio, as part of their closing event - a 50th Anniversary Concert. Tickets and more information are available at <https://www.firstbaptistcleveland.org/happy-ending-lyric-players/>. At this concert, I will be singing "[I am the very model of a modern Major General](https://en.wikipedia.org/wiki/Major-General%27s_Song)" from Gilbert & Sullivan's The Pirates of Penzance, among other things.
 
 I'd be thrilled to see you at either event, but please feel absolutely no obligation to attend. Thank you.
