@@ -25,5 +25,6 @@ Start Time | Stop Time | Investigator | Project Title
 2. [Final Project materials](https://thomaselove.github.io/500-2026/proj500.html#the-final-set-of-deliverables) (Abstract, Slides, Data Set, Quarto and HTML) for everyone are due to Canvas at NOON on **2026-04-28**.
 3. Course evaluations for 500 should open soon at <https://webapps.case.edu/courseevals/>, and are due at 11:59 PM Thursday, May 7. After you complete your project presentation, I would greatly appreciate it if you would take the time to complete this evaluation. Thanks in advance.
 4. The 2026 American Statistical Association [Virtual Sports Analytics Conference](https://webpages.charlotte.edu/mschuck1/VSAC_2026_Conference_Schedule.html) sponsored by the ASA Section on Statistics in Sports and hosted by Instats will be held 2026-04-24 and 2026-04-25. [Registration](https://instats.org/seminar/asa-sports-analytics-conference) (click on the Add to Basket link) is just $5 for students.
+5. Rosenbaum 2017 *Observation and Experiment* is posted to our Shared Drive.
 
 
