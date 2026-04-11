@@ -29,6 +29,7 @@ Start Time | Stop Time | Investigator | Project Title
 
 1. [Final Project materials](https://thomaselove.github.io/500-2026/proj500.html#the-final-set-of-deliverables) (Abstract, Slides, Data Set, Quarto and HTML) for everyone are due to Canvas at NOON on **2026-04-28**.
 2. The Course Evaluation at <https://webapps.case.edu/courseevals/> should be done anytime after you present your project, and is due when CWRU tells you it is, usually in early May. Please do fill this out. It delights me every year when we get 100% participation.
+3. Rosenbaum 2017 *Observation and Experiment* is posted to our Shared Drive.
 
 ## Dr. Love on stage
 
