@@ -4,7 +4,7 @@
 :-----------: | :--------------: | :----------: | :-------------: | :-----------: | :------------: |:------:
 for everything | for deadlines | expectations | ways to get help | lab submission | for downloads | to read
 
-## There are no Slides from Dr. Love today, and today's class will NOT be recorded or broadcast via Zoom.
+## There are no Slides from Dr. Love today, and today's class is in-person only.
 
 ## Schedule of Project Presentations
 
