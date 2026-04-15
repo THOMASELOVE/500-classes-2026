@@ -10,6 +10,8 @@ for everything | for deadlines | expectations | ways to get help | lab submissio
 
 You will provide feedback on these projects (skip your own) using [this form](https://bit.ly/500-projects-2026-04-16) found at <https://bit.ly/500-projects-2026-04-16>.
 
+- Copies of the slides and the pre-presentation abstracts are posted to our Shared Drive.
+
 Start Time | Stop Time | Investigator | Project Title
 :----------: | :----------: | :---------------------: | :------------------------------------------------------------------------------ 
 9:00 AM | 9:23 AM | Fai Albuainain | Does High-Speed Internet Access Reduce Preventable Hospitalizations?
